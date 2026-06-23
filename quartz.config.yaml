@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: poley77.github.io/quartz
+  baseUrl: poley77.github.io/health-system-wiki
   ignorePatterns:
     - private
     - templates

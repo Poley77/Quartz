@@ -1,6 +1,6 @@
 // Wiki AI Chat Widget
 // Set this to your Cloudflare Worker URL after deploying wiki-ai-chat worker
-const WORKER_URL = 'REPLACE_WITH_WORKER_URL';
+const WORKER_URL = 'https://wispy-darkness-1e54.poley7.workers.dev/';
 
 (function () {
   const css = `

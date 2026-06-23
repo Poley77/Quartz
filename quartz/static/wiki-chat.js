@@ -1,15 +1,16 @@
 // Wiki AI Chat Widget
-// Set this to your Cloudflare Worker URL after deploying wiki-ai-chat worker
 const WORKER_URL = 'https://wispy-darkness-1e54.poley7.workers.dev/';
 
-(function () {
+function initChatWidget() {
+  if (document.getElementById('wiki-chat-btn')) return; // already mounted
+
   const css = `
 #wiki-chat-btn {
   position: fixed;
   bottom: 24px;
   right: 24px;
   z-index: 9000;
-  background: var(--secondary, #284b63);
+  background: var(--secondary, #7b2af8);
   color: #fff;
   border: none;
   border-radius: 28px;
@@ -23,7 +24,7 @@ const WORKER_URL = 'https://wispy-darkness-1e54.poley7.workers.dev/';
   box-shadow: 0 4px 16px rgba(0,0,0,0.18);
   transition: background 0.2s;
 }
-#wiki-chat-btn:hover { background: var(--tertiary, #84a59d); }
+#wiki-chat-btn:hover { background: var(--tertiary, #4B06B7); }
 #wiki-chat-btn svg { flex-shrink: 0; }
 
 #wiki-chat-panel {
@@ -48,7 +49,7 @@ const WORKER_URL = 'https://wispy-darkness-1e54.poley7.workers.dev/';
 
 #wiki-chat-header {
   padding: 14px 16px;
-  background: var(--secondary, #284b63);
+  background: var(--secondary, #7b2af8);
   color: #fff;
   display: flex;
   align-items: center;
@@ -87,7 +88,7 @@ const WORKER_URL = 'https://wispy-darkness-1e54.poley7.workers.dev/';
 }
 .wiki-msg-user {
   align-self: flex-end;
-  background: var(--secondary, #284b63);
+  background: var(--secondary, #7b2af8);
   color: #fff;
   border-bottom-right-radius: 3px;
 }
@@ -116,10 +117,10 @@ const WORKER_URL = 'https://wispy-darkness-1e54.poley7.workers.dev/';
   color: var(--dark, #2b2b2b);
   outline: none;
 }
-#wiki-chat-input:focus { border-color: var(--secondary, #284b63); }
+#wiki-chat-input:focus { border-color: var(--secondary, #7b2af8); }
 #wiki-chat-send {
   padding: 9px 14px;
-  background: var(--secondary, #284b63);
+  background: var(--secondary, #7b2af8);
   color: #fff;
   border: none;
   border-radius: 8px;
@@ -127,13 +128,16 @@ const WORKER_URL = 'https://wispy-darkness-1e54.poley7.workers.dev/';
   font-size: 16px;
   transition: background 0.2s;
 }
-#wiki-chat-send:hover { background: var(--tertiary, #84a59d); }
+#wiki-chat-send:hover { background: var(--tertiary, #4B06B7); }
 #wiki-chat-send:disabled { opacity: 0.5; cursor: not-allowed; }
   `;
 
-  const style = document.createElement('style');
-  style.textContent = css;
-  document.head.appendChild(style);
+  if (!document.getElementById('wiki-chat-styles')) {
+    const style = document.createElement('style');
+    style.id = 'wiki-chat-styles';
+    style.textContent = css;
+    document.head.appendChild(style);
+  }
 
   const btn = document.createElement('button');
   btn.id = 'wiki-chat-btn';
@@ -178,12 +182,10 @@ const WORKER_URL = 'https://wispy-darkness-1e54.poley7.workers.dev/';
   async function sendMessage() {
     const question = input.value.trim();
     if (!question || sendBtn.disabled) return;
-
     input.value = '';
     sendBtn.disabled = true;
     appendMessage('user', question);
     const thinkingEl = appendMessage('bot', 'Thinking…', true);
-
     try {
       const res = await fetch(WORKER_URL, {
         method: 'POST',
@@ -200,10 +202,19 @@ const WORKER_URL = 'https://wispy-darkness-1e54.poley7.workers.dev/';
       sendBtn.disabled = false;
       input.focus();
     }
-
     messages.scrollTop = messages.scrollHeight;
   }
 
   sendBtn.addEventListener('click', sendMessage);
   input.addEventListener('keydown', (e) => { if (e.key === 'Enter') sendMessage(); });
-})();
+}
+
+// Run on initial load
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', initChatWidget);
+} else {
+  initChatWidget();
+}
+
+// Re-run after Quartz SPA navigations (replaces body content)
+document.addEventListener('nav', initChatWidget);

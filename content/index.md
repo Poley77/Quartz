@@ -1,8 +1,3 @@
-# Wiki Index
-
-Table of contents for the U.S. Healthcare System wiki. All pages are in `/Wiki/`. Pages marked **[stub needed]** are linked from other pages but do not yet exist.
-
----
 
 ## Health System Overview
 
@@ -124,3 +119,4 @@ Table of contents for the U.S. Healthcare System wiki. All pages are in `/Wiki/`
 |---|---|
 | [[index]] | This page — table of contents for the entire wiki |
 | [[log]] | Append-only record of all wiki operations |
+| [[latest-news]] | Articles shared in the team Slack channel, added automatically |

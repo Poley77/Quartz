@@ -2,7 +2,7 @@
 
 **Summary**: The documentation standards that make HCC codes defensible — the MEAT criteria, annual recapture requirements, and how CMS's RADV audit program validates and recovers risk adjustment payments.
 
-**Sources**: RAAPID, ["Risk Adjustment Coding in 2026"](https://www.raapidinc.com/blogs/risk-adjustment-coding/)
+**Sources**: RAAPID, ["Risk Adjustment Coding in 2026"](https://www.raapidinc.com/blogs/risk-adjustment-coding/); AAFP, ["Hierarchical Condition Category (HCC) Coding"](https://www.aafp.org/practice-operations/billing-and-coding/hierarchical-condition-category)
 
 **Last updated**: 2026-06-23
 
@@ -55,13 +55,17 @@ The most high-leverage coding improvement most organizations can make is increas
 | "Diabetes" | E11.9 (T2D, unspecified) | No HCC mapped, or lower-weight category |
 | "Type 2 diabetes with diabetic chronic kidney disease, stage 3" | E11.22 + N18.3 | HCC 18 (Diabetes with chronic complications) + HCC 136 (CKD stage 3–5) |
 
+Codes must reflect the highest available specificity across four dimensions: **type, severity, location, and control status**. For example, "diabetes" is insufficient — the correct code requires specifying type (1 vs. 2), any complications, and whether it is controlled or uncontrolled.
+
 High-prevalence conditions where specificity gaps are most costly:
-- **Diabetes**: type, complications (neuropathy, nephropathy, retinopathy), comorbid conditions
+- **Diabetes**: type, complications (neuropathy, nephropathy, retinopathy), control status, comorbid conditions
 - **Chronic kidney disease**: staging (1–5) dramatically affects HCC weight
 - **Heart failure**: systolic vs. diastolic, acuity, NYHA class
 - **COPD**: severity, exacerbation history
 - **Depression and bipolar disorder**: severity specification
 - **Hypertension with comorbidities**: often under-documented alongside other conditions
+
+**History codes**: If a historical condition (e.g., prior stroke, resolved cancer) currently affects patient management or treatment decisions, it may still be coded — typically as a secondary code alongside the primary condition it is influencing. The key test is whether it is genuinely informing the current clinical encounter.
 
 ## The RADV Audit Process
 
@@ -116,7 +120,7 @@ There is a legally meaningful distinction between:
 - **Appropriate coding accuracy**: Ensuring real, actively managed conditions are documented at their correct specificity, and that all chronic conditions are recaptured annually
 - **Upcoding**: Submitting codes for conditions that are not clinically present, not supported by the documentation, or inflated in severity without clinical basis
 
-The former is expected operational practice in VBC. The latter exposes organizations to False Claims Act liability. RADV audits are one enforcement mechanism; DOJ investigations and settlement activity have produced multi-hundred-million-dollar recoveries from MA plans found to have engaged in systematic upcoding. The compliance posture matters as much as the revenue strategy.
+The former is expected operational practice in VBC. The latter exposes organizations to False Claims Act liability. A practical note: medical records must include **legible provider signatures with credentials** for documentation to be audit-defensible — unsigned or illegibly signed notes cannot be validated and will be treated as missing documentation. RADV audits are one enforcement mechanism; DOJ investigations and settlement activity have produced multi-hundred-million-dollar recoveries from MA plans found to have engaged in systematic upcoding. The compliance posture matters as much as the revenue strategy.
 
 ## Implementation Checklist
 

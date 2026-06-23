@@ -2,7 +2,7 @@
 
 **Summary**: Provider and insurer markets have become highly concentrated over recent decades — raising prices, drawing regulatory scrutiny, and creating a dominant structural feature of U.S. healthcare economics.
 
-**Sources**: `Eight Trends Shaping 2026 Healthcare Costs.md`, `A layman's guide to the U.S. health care system.md`, `What to expect in US healthcare in 2026 and beyond.md`
+**Sources**: [Eight Trends Shaping 2026 Healthcare Costs](https://www.kff.org/health-costs/eight-trends-shaping-2026-health-care-costs/), [A layman's guide to the U.S. health care system](https://pmc.ncbi.nlm.nih.gov/articles/PMC4193322/), [What to expect in US healthcare in 2026 and beyond](https://www.mckinsey.com/industries/healthcare/our-insights/what-to-expect-in-us-healthcare)
 
 **Last updated**: 2026-05-12
 
@@ -39,7 +39,7 @@ Several forces drove the consolidation trend:
 
 ## The "Medical Arms Race" (Historical)
 
-A dynamic documented since the 1980s: because physicians admit patients to hospitals and hospitals must attract physicians, hospitals historically competed by investing in expensive equipment and services. This created redundancy without lowering costs. Consolidation was partly a response — consolidating services to eliminate duplicate infrastructure — but concentrated markets often replaced one cost problem with another (pricing power). (Source: `A layman's guide to the U.S. health care system.md`)
+A dynamic documented since the 1980s: because physicians admit patients to hospitals and hospitals must attract physicians, hospitals historically competed by investing in expensive equipment and services. This created redundancy without lowering costs. Consolidation was partly a response — consolidating services to eliminate duplicate infrastructure — but concentrated markets often replaced one cost problem with another (pricing power). (Source: [A layman's guide to the U.S. health care system](https://pmc.ncbi.nlm.nih.gov/articles/PMC4193322/))
 
 ## Insurer Consolidation
 

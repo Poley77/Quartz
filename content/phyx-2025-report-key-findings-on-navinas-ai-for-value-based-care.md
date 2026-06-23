@@ -2,7 +2,7 @@
 
 **Summary**: Key findings from an independent study measuring the real-world impact of Navina's AI on clinical workflows, coding accuracy, and care gap closure in value-based care settings.
 
-**Sources**: PHYX / Navina, "AI for Value-Based Care: Independent Study Shows Navina's Impact" (2025)
+**Sources**: PHYX / Navina, ["AI for Value-Based Care: Independent Study Shows Navina's Impact"](https://www.navina.ai/white-papers/phyx-2025-independent-study-on-navina) (2025)
 
 **Last updated**: 2026-06-22
 

@@ -1,6 +1,7 @@
----
-title: " "
-showReadingTime: false
+# Wiki Index
+
+Table of contents for the U.S. Healthcare System wiki. All pages are in `/Wiki/`. Pages marked **[stub needed]** are linked from other pages but do not yet exist.
+
 ---
 
 ## Health System Overview
@@ -12,14 +13,6 @@ showReadingTime: false
 | [[overview]] | High-level map of the system: who pays, where the money goes, and the key pressures shaping healthcare in 2026 |
 | [[history]] | Chronological account from pre-Medicare era through the ACA, OBBBA, and the Great Healthcare Plan |
 | [[2026-trends]] | Synthesized view of the 10 major trends reshaping healthcare in 2026, with cross-cutting insights from the literature |
-
-## Legislation
-
-*The key laws reshaping the system. OBBBA is the most consequential recent change — it directly cuts the programs covered in the section below.*
-
-| Page | Description |
-|---|---|
-| [[obbba]] | One Big Beautiful Bill Act (2025): $900B+ Medicaid cuts, ACA Marketplace changes, $50B Rural Health Transformation Program; ~10M newly uninsured |
 
 ## Coverage and Insurance
 
@@ -36,6 +29,14 @@ showReadingTime: false
 | [[6-insights-on-the-new-ma-reality]] | How the MA market shifted after 2023 rate cuts: rising costs, coding scrutiny, benefit reductions, and quality differentiation |
 | [[how-risk-adjustment-affects-payment-medicare-advantage-plans]] | How CMS uses HCC risk scores to set MA capitation rates, and why the system is contested |
 | [[risk-adjustment-coding]] | How HCC coding works, why coding accuracy determines VBC revenue, and what's changing in 2026 |
+
+## Legislation
+
+*The key laws reshaping the system. OBBBA is the most consequential recent change — it directly cuts the programs covered in the section above.*
+
+| Page | Description |
+|---|---|
+| [[obbba]] | One Big Beautiful Bill Act (2025): $900B+ Medicaid cuts, ACA Marketplace changes, $50B Rural Health Transformation Program; ~10M newly uninsured |
 
 ## Economics and Costs
 
@@ -66,6 +67,8 @@ showReadingTime: false
 | [[ai-and-technology]] | AI from pilot to infrastructure: ambient scribing, clinical decision support, coding inflation risk, HST sector growth |
 | [[phyx-2025-report-key-findings-on-navinas-ai-for-value-based-care]] | Independent study measuring Navina's AI impact on coding accuracy, care gap closure, and physician efficiency in VBC settings |
 
+---
+
 ## Population and Access
 
 *Even with all the programs above, millions fall through the cracks. These pages cover who gets left out and why.*
@@ -88,29 +91,9 @@ showReadingTime: false
 
 ---
 
-## List of Articles
+## Meta
 
-*The primary source articles on which this wiki is built, ordered for a reader new to US healthcare.*
-
-- [A Layman's Guide to the U.S. Health Care System](https://samples.jbpub.com/9780763795405/chapter1.pdf) — DeLew, Greenberg & Kinchen, Health Care Financing Review (1992)
-- [What to Expect in US Healthcare in 2026 and Beyond](https://www.mckinsey.com/industries/healthcare/our-insights/what-to-expect-in-us-healthcare) — McKinsey & Company
-- [The U.S. Health Care System in 2026: Inside the Great Healthcare Plan](https://www.biobrain.io/blog/the-u-s-health-care-system-in-2026-inside-the-great-healthcare-plan) — BioBrain
-- [Eight Trends Shaping 2026 Healthcare Costs](https://www.kff.org/health-costs/eight-trends-shaping-2026-health-care-costs/) — KFF
-- [10 Healthcare Trends Reshaping the US Healthcare in 2026](https://www.americanhhm.com/articles/10-healthcare-trends-reshaping-us-system-2026) — American HHM
-- [10 Strategic Priorities for Healthcare Leaders in 2026](https://www.ache.org/blog/2026/10-strategic-priorities-for-healthcare-leaders-in-2026) — ACHE
-- [Fast Facts on U.S. Hospitals, 2026](https://www.aha.org/statistics/fast-facts-us-hospitals) — American Hospital Association
-- [The Affordable Care Act 101](https://www.kff.org/affordable-care-act/health-policy-101-the-affordable-care-act/) — KFF
-- [Understanding the Affordable Care Act](https://www.hhs.gov/healthcare/about-the-aca/index.html) — HHS.gov
-- [Medicare Advantage: A Policy Primer](https://www.commonwealthfund.org/publications/explainer/2024/jan/medicare-advantage-policy-primer) — Commonwealth Fund (January 2024)
-- [Taking Stock of Medicare Advantage Payment](https://www.commonwealthfund.org/blog/2022/taking-stock-medicare-advantage-payment) — Commonwealth Fund (2022)
-- [How Risk Adjustment Affects Payment for Medicare Advantage Plans](https://www.commonwealthfund.org/publications/explainer/2026/jan/how-risk-adjustment-affects-payment-medicare-advantage-plans) — Commonwealth Fund (January 2026)
-- [6 Insights on the New MA Reality](https://www.navina.ai/articles/6-insights-on-the-new-ma-reality) — Navina (2026)
-- [The Strategy That Will Fix Health Care](https://hbr.org/2013/10/the-strategy-that-will-fix-health-care) — Porter & Lee, Harvard Business Review (October 2013)
-- [The Healthcare Business Model That Will Define the Next Decade](https://www.pearcalls.com/blog/intro-to-value-based-care) — Pearcalls (November 2025)
-- [Inside the Value-Based Care Ecosystem](https://www.pearcalls.com/blog/inside-the-value-based-care-ecosystem) — Pearcalls (November 2025)
-- [ACO REACH vs. MSSP Explained](https://aledade.com/value-based-care-resources/guides/compare-aco-reach-mssp/) — Aledade (April 2026)
-- [The Math of ACOs](https://www.mckinsey.com/industries/healthcare/our-insights/the-math-of-acos) — McKinsey & Company
-- [VBC Under Pressure: Five Insights from the Front Lines](https://www.navina.ai/articles/vbc-under-pressure-five-insights-from-the-front-lines) — Navina
-- [Risk Adjustment Coding in 2026](https://www.raapidinc.com/blogs/risk-adjustment-coding/) — RAAPID
-- [Breaking Down the Care Platform Landscape](https://workweek.com/2022/05/12/breaking-down-care-platform-landscape/) — Workweek / Hospitalogy (May 2022)
-- [Phyx 2025 Report: Key Findings on Navina's AI for Value-Based Care](https://www.navina.ai/articles/phyx-2025-report-key-findings-on-navinas-ai-for-value-based-care) — PHYX / Navina (2025)
+| Page | Description |
+|---|---|
+| [[index]] | This page — table of contents for the entire wiki |
+| [[log]] | Append-only record of all wiki operations |

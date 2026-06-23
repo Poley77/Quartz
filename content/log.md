@@ -36,7 +36,7 @@ Append-only record of all wiki operations. Most recent entry at the top.
 - PHTI, 2025 State of Digital Health Purchasing (Oct 2025)
 
 **Pages created**:
-- `fee-for-service.md` — FFS mechanics, the volume incentive problem, billing infrastructure (RBRVS, DRGs), what FFS gets right, why it's durable, FFS vs. VBC comparison table, and 2026 status. Sources: `A layman's guide to the U.S. health care system.md`, Elevance Health (Jan 2025), PHTI 2025.
+- `fee-for-service.md` — FFS mechanics, the volume incentive problem, billing infrastructure (RBRVS, DRGs), what FFS gets right, why it's durable, FFS vs. VBC comparison table, and 2026 status. Sources: [A layman's guide to the U.S. health care system](https://pmc.ncbi.nlm.nih.gov/articles/PMC4193322/), Elevance Health (Jan 2025), PHTI 2025.
 
 **Pages updated**:
 - `value-based-care.md` — Added new section "Performance-Based Contracting in Digital Health (2025)" with PHTI data on performance-based contract adoption (75% health plans, 61% health systems, 14% employers); updated Sources and Last updated; added [[fee-for-service]] to Related Pages.
@@ -56,11 +56,11 @@ Append-only record of all wiki operations. Most recent entry at the top.
 ## 2026-05-12 — Created 5 stub pages; updated index.md and log.md
 
 **Pages created**:
-- `healthcare-consolidation.md` — Market concentration in provider and insurer markets, causes, consequences for pricing, and 2026 policy responses. Sources: `Eight Trends Shaping 2026 Healthcare Costs.md`, `A layman's guide to the U.S. health care system.md`.
-- `uninsured.md` — Who the uninsured are, how they access care, cost-shifting dynamics, ACA impact, and OBBBA projections. Sources: `Eight Trends Shaping 2026 Healthcare Costs.md`, `What to expect in US healthcare in 2026 and beyond.md`, `A layman's guide to the U.S. health care system.md`.
-- `rural-health.md` — Rural provider shortages, hospital fragility, OBBBA Rural Health Transformation Program details, and technology strategy. Sources: `Eight Trends Shaping 2026 Healthcare Costs.md`, `What to expect in US healthcare in 2026 and beyond.md`.
-- `price-transparency.md` — Federal transparency rules, limited practical impact, 2026 momentum, Great Healthcare Plan, Patients Deserve Price Tags Act. Source: `Eight Trends Shaping 2026 Healthcare Costs.md`.
-- `health-equity.md` — Racial/income/geographic disparities, social determinants of health, shift from reporting to action, OBBBA equity implications. Sources: `10 Healthcare Trends Reshaping the US Healthcare in 2026.md`, `A layman's guide to the U.S. health care system.md`.
+- `healthcare-consolidation.md` — Market concentration in provider and insurer markets, causes, consequences for pricing, and 2026 policy responses. Sources: [Eight Trends Shaping 2026 Healthcare Costs](https://www.kff.org/health-costs/eight-trends-shaping-2026-health-care-costs/), [A layman's guide to the U.S. health care system](https://pmc.ncbi.nlm.nih.gov/articles/PMC4193322/).
+- `uninsured.md` — Who the uninsured are, how they access care, cost-shifting dynamics, ACA impact, and OBBBA projections. Sources: [Eight Trends Shaping 2026 Healthcare Costs](https://www.kff.org/health-costs/eight-trends-shaping-2026-health-care-costs/), [What to expect in US healthcare in 2026 and beyond](https://www.mckinsey.com/industries/healthcare/our-insights/what-to-expect-in-us-healthcare), [A layman's guide to the U.S. health care system](https://pmc.ncbi.nlm.nih.gov/articles/PMC4193322/).
+- `rural-health.md` — Rural provider shortages, hospital fragility, OBBBA Rural Health Transformation Program details, and technology strategy. Sources: [Eight Trends Shaping 2026 Healthcare Costs](https://www.kff.org/health-costs/eight-trends-shaping-2026-health-care-costs/), [What to expect in US healthcare in 2026 and beyond](https://www.mckinsey.com/industries/healthcare/our-insights/what-to-expect-in-us-healthcare).
+- `price-transparency.md` — Federal transparency rules, limited practical impact, 2026 momentum, Great Healthcare Plan, Patients Deserve Price Tags Act. Source: [Eight Trends Shaping 2026 Healthcare Costs](https://www.kff.org/health-costs/eight-trends-shaping-2026-health-care-costs/).
+- `health-equity.md` — Racial/income/geographic disparities, social determinants of health, shift from reporting to action, OBBBA equity implications. Sources: [10 Healthcare Trends Reshaping the US Healthcare in 2026](https://www.americanhhm.com/articles/10-healthcare-trends-reshaping-us-system-2026), [A layman's guide to the U.S. health care system](https://pmc.ncbi.nlm.nih.gov/articles/PMC4193322/).
 
 **Pages updated**: `index.md` (added Population and Access and Market Structure sections; removed stub list)
 
@@ -71,7 +71,7 @@ Append-only record of all wiki operations. Most recent entry at the top.
 ## 2026-05-12 — Created value-based-care.md; updated index.md and log.md
 
 **Pages created**:
-- `value-based-care.md` — Fee-for-service vs. VBC mechanics, HMO/PPO history, ACOs, Medicare Advantage, 2026 status, structural barriers to transition, and role of AI. Drawn from `What to expect in US healthcare in 2026 and beyond.md`, `10 Healthcare Trends Reshaping the US Healthcare in 2026.md`, `Healthcare System Priorities in 2026.md`, `A layman's guide to the U.S. health care system.md`.
+- `value-based-care.md` — Fee-for-service vs. VBC mechanics, HMO/PPO history, ACOs, Medicare Advantage, 2026 status, structural barriers to transition, and role of AI. Drawn from [What to expect in US healthcare in 2026 and beyond](https://www.mckinsey.com/industries/healthcare/our-insights/what-to-expect-in-us-healthcare), [10 Healthcare Trends Reshaping the US Healthcare in 2026](https://www.americanhhm.com/articles/10-healthcare-trends-reshaping-us-system-2026), Healthcare System Priorities in 2026, [A layman's guide to the U.S. health care system](https://pmc.ncbi.nlm.nih.gov/articles/PMC4193322/).
 
 **Pages updated**: `index.md` (added value-based-care entry; removed from stub list)
 
@@ -84,7 +84,7 @@ Append-only record of all wiki operations. Most recent entry at the top.
 **Source ingested**: None (pharmacy.md synthesized from existing raw sources already in the wiki)
 
 **Pages created**:
-- `pharmacy.md` — Prescription drug spending, GLP-1 therapies, specialty biologics, PBM structure and reform, federal drug pricing policy (IRA, MFN/TrumpRx, tariffs), 340B program, and distribution model shifts. Drawn from `What to expect in US healthcare in 2026 and beyond.md`, `Eight Trends Shaping 2026 Healthcare Costs.md`, and `The U.S. Health Care System in 2026.md`.
+- `pharmacy.md` — Prescription drug spending, GLP-1 therapies, specialty biologics, PBM structure and reform, federal drug pricing policy (IRA, MFN/TrumpRx, tariffs), 340B program, and distribution model shifts. Drawn from [What to expect in US healthcare in 2026 and beyond](https://www.mckinsey.com/industries/healthcare/our-insights/what-to-expect-in-us-healthcare), [Eight Trends Shaping 2026 Healthcare Costs](https://www.kff.org/health-costs/eight-trends-shaping-2026-health-care-costs/), and [The U.S. Health Care System in 2026: Inside the Great Healthcare Plan](https://www.biobrain.io/blog/the-u-s-health-care-system-in-2026-inside-the-great-healthcare-plan).
 - `index.md` — Table of contents covering all 12 existing wiki pages, with stub-page tracking.
 - `log.md` — This file.
 
@@ -97,15 +97,15 @@ Append-only record of all wiki operations. Most recent entry at the top.
 ## 2026-05-12 — Initial wiki build (pre-log)
 
 **Sources ingested**:
-- `What to expect in US healthcare in 2026 and beyond.md`
-- `Eight Trends Shaping 2026 Healthcare Costs.md`
-- `Healthcare System Priorities in 2026.md`
-- `10 Healthcare Trends Reshaping the US Healthcare in 2026.md`
-- `A layman's guide to the U.S. health care system.md`
-- `The U.S. Health Care System in 2026_ Inside the Great Healthcare Plan.md`
-- `The Affordable Care Act 101.md`
-- `Understanding the Affordable Care Act.md`
-- `Fast Facts on U.S. Hospitals, 2026.md`
+- [What to expect in US healthcare in 2026 and beyond](https://www.mckinsey.com/industries/healthcare/our-insights/what-to-expect-in-us-healthcare)
+- [Eight Trends Shaping 2026 Healthcare Costs](https://www.kff.org/health-costs/eight-trends-shaping-2026-health-care-costs/)
+- Healthcare System Priorities in 2026
+- [10 Healthcare Trends Reshaping the US Healthcare in 2026](https://www.americanhhm.com/articles/10-healthcare-trends-reshaping-us-system-2026)
+- [A layman's guide to the U.S. health care system](https://pmc.ncbi.nlm.nih.gov/articles/PMC4193322/)
+- [The U.S. Health Care System in 2026: Inside the Great Healthcare Plan](https://www.biobrain.io/blog/the-u-s-health-care-system-in-2026-inside-the-great-healthcare-plan)
+- [The Affordable Care Act 101](https://www.kff.org/affordable-care-act/health-policy-101-the-affordable-care-act/)
+- Understanding the Affordable Care Act
+- [Fast Facts on U.S. Hospitals, 2026](https://www.aha.org/statistics/fast-facts-us-hospitals)
 
 **Pages created**:
 - `overview.md` — System structure, who pays, where the money goes, 2026 conditions

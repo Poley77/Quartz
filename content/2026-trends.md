@@ -2,7 +2,7 @@
 
 **Summary**: A synthesized view of the major forces reshaping U.S. healthcare in 2026 — drawn from McKinsey, KFF, CBO, AHA, and primary industry sources.
 
-**Sources**: `What to expect in US healthcare in 2026 and beyond.md`, `Eight Trends Shaping 2026 Healthcare Costs.md`, `Healthcare System Priorities in 2026.md`, `10 Healthcare Trends Reshaping the US Healthcare in 2026.md`, `Fast Facts on U.S. Hospitals, 2026.md`, `The U.S. Health Care System in 2026_ Inside the Great Healthcare Plan.md`
+**Sources**: [What to expect in US healthcare in 2026 and beyond](https://www.mckinsey.com/industries/healthcare/our-insights/what-to-expect-in-us-healthcare), [Eight Trends Shaping 2026 Healthcare Costs](https://www.kff.org/health-costs/eight-trends-shaping-2026-health-care-costs/), Healthcare System Priorities in 2026, [10 Healthcare Trends Reshaping the US Healthcare in 2026](https://www.americanhhm.com/articles/10-healthcare-trends-reshaping-us-system-2026), [Fast Facts on U.S. Hospitals, 2026](https://www.aha.org/statistics/fast-facts-us-hospitals), [The U.S. Health Care System in 2026: Inside the Great Healthcare Plan](https://www.biobrain.io/blog/the-u-s-health-care-system-in-2026-inside-the-great-healthcare-plan)
 
 **Last updated**: 2026-05-12
 

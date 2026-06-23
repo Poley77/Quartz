@@ -2,7 +2,7 @@
 
 **Summary**: How HCC coding works, why it matters financially under value-based care, and what's changing under updated CMS rules in 2026.
 
-**Sources**: RAAPID, "Risk Adjustment Coding in 2026"
+**Sources**: RAAPID, ["Risk Adjustment Coding in 2026"](https://www.raapidinc.com/blogs/risk-adjustment-coding/)
 
 **Last updated**: 2026-06-22
 

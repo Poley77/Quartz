@@ -2,7 +2,7 @@
 
 **Summary**: The 2025 federal budget reconciliation law that made the largest cuts to Medicaid in the program's history, restructured ACA subsidies, and created a $50 billion Rural Health Transformation Program. Estimated to leave ~10 million more Americans uninsured.
 
-**Sources**: `Eight Trends Shaping 2026 Healthcare Costs.md`, `What to expect in US healthcare in 2026 and beyond.md`, `The Affordable Care Act 101.md`
+**Sources**: [Eight Trends Shaping 2026 Healthcare Costs](https://www.kff.org/health-costs/eight-trends-shaping-2026-health-care-costs/), [What to expect in US healthcare in 2026 and beyond](https://www.mckinsey.com/industries/healthcare/our-insights/what-to-expect-in-us-healthcare), [The Affordable Care Act 101](https://www.kff.org/affordable-care-act/health-policy-101-the-affordable-care-act/)
 
 **Last updated**: 2026-05-12
 

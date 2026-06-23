@@ -2,7 +2,7 @@
 
 **Summary**: The traditional U.S. payment model that pays providers for each service they deliver — visits, tests, procedures — regardless of patient outcomes. Still the dominant payment mechanism by volume in U.S. healthcare, despite decades of pressure to replace it.
 
-**Sources**: `A layman's guide to the U.S. health care system.md`, Elevance Health (Jan 2025), PHTI 2025 State of Digital Health Purchasing
+**Sources**: [A layman's guide to the U.S. health care system](https://pmc.ncbi.nlm.nih.gov/articles/PMC4193322/), Elevance Health (Jan 2025), [PHTI 2025 State of Digital Health Purchasing](https://phti.org/2025-state-of-digital-health-purchasing/)
 
 **Last updated**: 2026-05-17
 
@@ -18,7 +18,7 @@ The payer (insurer, Medicare, Medicaid, or the patient) reimburses based on stan
 
 FFS creates a structural misalignment between what pays and what heals. The model rewards volume — more visits, more tests, more procedures — not outcomes. A provider whose patient stays healthy and avoids complications earns nothing extra for that. A provider who orders more imaging, more specialist referrals, and more procedures earns more.
 
-Studies have documented the consequences. RAND Corporation research found that **15–30% of certain procedures are inappropriate or unnecessary** by clinical evidence standards. Geographic variation in procedure rates is dramatic and cannot be explained by patient population differences — it reflects how FFS incentives interact with local physician practice patterns. (Source: `A layman's guide to the U.S. health care system.md`)
+Studies have documented the consequences. RAND Corporation research found that **15–30% of certain procedures are inappropriate or unnecessary** by clinical evidence standards. Geographic variation in procedure rates is dramatic and cannot be explained by patient population differences — it reflects how FFS incentives interact with local physician practice patterns. (Source: [A layman's guide to the U.S. health care system](https://pmc.ncbi.nlm.nih.gov/articles/PMC4193322/))
 
 FFS also fragments care. Specialists, hospitals, and primary care physicians are each paid separately for their portion of a patient's care. There is no reimbursement for coordinating between them, so coordination is structurally undervalued.
 
@@ -26,7 +26,7 @@ FFS also fragments care. Specialists, hospitals, and primary care physicians are
 
 Medicare uses the Resource-Based Relative Value Scale (RBRVS) to set physician payment rates — each CPT code is assigned a relative value unit (RVU), multiplied by a conversion factor to produce the payment amount. For hospital inpatient stays, Medicare uses Diagnosis-Related Groups (DRGs): a fixed payment per admission, set by diagnosis regardless of actual length of stay.
 
-Commercial insurers negotiate their own fee schedules, typically expressed as a percentage of Medicare rates. The administrative overhead is substantial: multiple payer relationships, each with distinct fee schedules, prior authorization requirements, and claim adjudication processes. (Source: `A layman's guide to the U.S. health care system.md`)
+Commercial insurers negotiate their own fee schedules, typically expressed as a percentage of Medicare rates. The administrative overhead is substantial: multiple payer relationships, each with distinct fee schedules, prior authorization requirements, and claim adjudication processes. (Source: [A layman's guide to the U.S. health care system](https://pmc.ncbi.nlm.nih.gov/articles/PMC4193322/))
 
 ## What FFS Gets Right
 
@@ -42,7 +42,7 @@ FFS has real advantages that explain both its longevity and the political diffic
 
 Despite decades of effort, FFS still dominates actual payment volume in U.S. healthcare. The infrastructure is the reason. The entire billing, coding, contracting, and compliance architecture was built around FFS. Electronic health records are designed to capture FFS-compatible billing data. Practice management systems are optimized for claim submission. Specialist compensation structures are built around RVU production.
 
-Transitioning away from FFS requires building VBC infrastructure while maintaining the FFS revenue streams that keep organizations solvent today. Most health systems operate on margins of 1–2% — there is very little room to absorb the dual running costs. The transition isn't blocked by disagreement about whether VBC is better. It's blocked by the cost of running both models simultaneously. (Source: `Healthcare System Priorities in 2026.md`)
+Transitioning away from FFS requires building VBC infrastructure while maintaining the FFS revenue streams that keep organizations solvent today. Most health systems operate on margins of 1–2% — there is very little room to absorb the dual running costs. The transition isn't blocked by disagreement about whether VBC is better. It's blocked by the cost of running both models simultaneously. (Source: Healthcare System Priorities in 2026)
 
 ## FFS vs. Value-Based Care: The Key Differences
 

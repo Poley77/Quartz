@@ -2,7 +2,7 @@
 
 **Summary**: Practitioner-level observations on why implementing value-based care is harder than the theory suggests — the real operational, financial, and data challenges organizations face.
 
-**Sources**: Navina, "VBC Under Pressure: Five Insights from the Front Lines" (2025)
+**Sources**: Navina, ["VBC Under Pressure: Five Insights from the Front Lines"](https://www.navina.ai/articles/vbc-under-pressure-five-insights-from-the-front-lines) (2025)
 
 **Last updated**: 2026-06-22
 

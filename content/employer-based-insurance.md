@@ -2,7 +2,7 @@
 
 **Summary**: The dominant source of health coverage in the U.S., providing insurance to roughly 156 million Americans through their jobs or a family member's job.
 
-**Sources**: `What to expect in US healthcare in 2026 and beyond.md`, `Eight Trends Shaping 2026 Healthcare Costs.md`, `The Affordable Care Act 101.md`
+**Sources**: [What to expect in US healthcare in 2026 and beyond](https://www.mckinsey.com/industries/healthcare/our-insights/what-to-expect-in-us-healthcare), [Eight Trends Shaping 2026 Healthcare Costs](https://www.kff.org/health-costs/eight-trends-shaping-2026-health-care-costs/), [The Affordable Care Act 101](https://www.kff.org/affordable-care-act/health-policy-101-the-affordable-care-act/)
 
 **Last updated**: 2026-05-12
 

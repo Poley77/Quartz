@@ -2,7 +2,7 @@
 
 **Summary**: Artificial intelligence has moved from pilot project to operational infrastructure in U.S. healthcare — with ambient scribing already reaching 10%+ of physicians and generative AI creating both cost-saving opportunities and new risks like coding inflation.
 
-**Sources**: `What to expect in US healthcare in 2026 and beyond.md`, `Healthcare System Priorities in 2026.md`, `10 Healthcare Trends Reshaping the US Healthcare in 2026.md`, `Eight Trends Shaping 2026 Healthcare Costs.md`
+**Sources**: [What to expect in US healthcare in 2026 and beyond](https://www.mckinsey.com/industries/healthcare/our-insights/what-to-expect-in-us-healthcare), Healthcare System Priorities in 2026, [10 Healthcare Trends Reshaping the US Healthcare in 2026](https://www.americanhhm.com/articles/10-healthcare-trends-reshaping-us-system-2026), [Eight Trends Shaping 2026 Healthcare Costs](https://www.kff.org/health-costs/eight-trends-shaping-2026-health-care-costs/)
 
 **Last updated**: 2026-05-12
 

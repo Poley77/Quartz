@@ -2,7 +2,7 @@
 
 **Summary**: How CMS uses HCC risk scores to set capitated payment rates for Medicare Advantage plans — and why this system is both essential and controversial.
 
-**Sources**: Commonwealth Fund, "How Risk Adjustment Affects Payment for Medicare Advantage Plans" (January 2026)
+**Sources**: Commonwealth Fund, ["How Risk Adjustment Affects Payment for Medicare Advantage Plans"](https://www.commonwealthfund.org/publications/explainer/2026/jan/how-risk-adjustment-affects-payment-medicare-advantage-plans) (January 2026)
 
 **Last updated**: 2026-06-22
 

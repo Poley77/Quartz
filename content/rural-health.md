@@ -2,7 +2,7 @@
 
 **Summary**: Rural Americans face distinct healthcare challenges — provider shortages, hospital financial fragility, and geographic barriers to care — that are being addressed in part by the OBBBA's $50 billion Rural Health Transformation Program.
 
-**Sources**: `Eight Trends Shaping 2026 Healthcare Costs.md`, `What to expect in US healthcare in 2026 and beyond.md`
+**Sources**: [Eight Trends Shaping 2026 Healthcare Costs](https://www.kff.org/health-costs/eight-trends-shaping-2026-health-care-costs/), [What to expect in US healthcare in 2026 and beyond](https://www.mckinsey.com/industries/healthcare/our-insights/what-to-expect-in-us-healthcare)
 
 **Last updated**: 2026-05-12
 

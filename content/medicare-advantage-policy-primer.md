@@ -2,7 +2,7 @@
 
 **Summary**: A structured overview of how Medicare Advantage works — its structure, how plans are paid, enrollment trends, quality measurement, and the key policy debates shaping its future.
 
-**Sources**: Commonwealth Fund, "Medicare Advantage: A Policy Primer" (January 2024)
+**Sources**: Commonwealth Fund, ["Medicare Advantage: A Policy Primer"](https://www.commonwealthfund.org/publications/explainer/2024/jan/medicare-advantage-policy-primer) (January 2024)
 
 **Last updated**: 2026-06-22
 

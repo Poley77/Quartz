@@ -2,7 +2,7 @@
 
 **Summary**: Federal rules now require hospitals and health plans to publish their negotiated prices, but the data has been hard to use in practice. Momentum for stronger, more accessible transparency has grown significantly in 2026.
 
-**Sources**: `Eight Trends Shaping 2026 Healthcare Costs.md`, `The U.S. Health Care System in 2026_ Inside the Great Healthcare Plan.md`
+**Sources**: [Eight Trends Shaping 2026 Healthcare Costs](https://www.kff.org/health-costs/eight-trends-shaping-2026-health-care-costs/), [The U.S. Health Care System in 2026: Inside the Great Healthcare Plan](https://www.biobrain.io/blog/the-u-s-health-care-system-in-2026-inside-the-great-healthcare-plan)
 
 **Last updated**: 2026-05-12
 

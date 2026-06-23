@@ -2,7 +2,7 @@
 
 **Summary**: A side-by-side comparison of the two main Medicare ACO programs — their eligibility requirements, risk models, payment structures, and which types of organizations each is suited for.
 
-**Sources**: Aledade, "ACO REACH vs. MSSP Explained" (April 2026)
+**Sources**: Aledade, ["ACO REACH vs. MSSP Explained"](https://aledade.com/value-based-care-resources/guides/compare-aco-reach-mssp/) (April 2026)
 
 **Last updated**: 2026-06-22
 

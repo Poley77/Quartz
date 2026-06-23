@@ -2,9 +2,9 @@
 
 **Summary**: Persistent disparities in health outcomes and access exist across racial, income, and geographic lines in the U.S. — and are beginning to shift from a reporting and measurement focus toward operational action in 2026.
 
-**Sources**: `10 Healthcare Trends Reshaping the US Healthcare in 2026.md`, `A layman's guide to the U.S. health care system.md`, `Healthcare System Priorities in 2026.md`
+**Sources**: [10 Healthcare Trends Reshaping the US Healthcare in 2026](https://www.americanhhm.com/articles/10-healthcare-trends-reshaping-us-system-2026), [A layman's guide to the U.S. health care system](https://pmc.ncbi.nlm.nih.gov/articles/PMC4193322/), Healthcare System Priorities in 2026
 
-**Last updated**: 2026-06-22
+**Last updated**: 2026-05-12
 
 ---
 
@@ -12,87 +12,47 @@
 
 Health equity refers to the goal that every person has a fair opportunity to attain their highest level of health — and that differences in health outcomes are not driven by social, economic, or environmental disadvantages.
 
-In practice, the U.S. has significant **health disparities**: systematic differences in disease burden, access to care, and health outcomes that correlate with race, income, geography, and other social factors. These disparities are not random — they are predictable, measurable, and in many cases traceable to specific policy decisions and structural features of the healthcare system.
+In practice, the U.S. has significant **health disparities**: systematic differences in disease burden, access to care, and health outcomes that correlate with race, income, geography, and other social factors.
 
-## The Disparities by the Numbers
+## The Disparities
 
-**Maternal mortality**:
-Black women die from pregnancy-related causes at **3x the rate of white women**. In 2024, the maternal mortality rate was **44.8 per 100,000 live births** for Black women versus **14.2** for white women (CDC). This gap persists even after controlling for income and education — Black women with college degrees have higher maternal mortality rates than white women who did not finish high school.
+Research has documented persistent disparities across multiple dimensions:
 
-**Uninsured rates by race/ethnicity (2025)**:
-- Hispanic/Latino adults: **21.9%** uninsured
-- Black/African American adults: ~**10.5%** uninsured
-- White adults: **7.9%** uninsured
-- Asian adults: ~**6.7%** uninsured
+**By race**: Black, Hispanic, and Native American populations have higher rates of chronic disease (diabetes, hypertension, obesity), higher infant and maternal mortality rates, and lower access to preventive care. Studies have found racial disparities in rates of specific procedures — including cardiac surgery — that cannot be fully explained by clinical factors. (Source: [A layman's guide to the U.S. health care system](https://pmc.ncbi.nlm.nih.gov/articles/PMC4193322/), citing JAMA studies)
 
-(Source: CDC, 2025)
+**By income**: Lower-income Americans are more likely to be [[uninsured]], less likely to have a primary care physician, and more likely to delay or forgo care due to cost. They also have higher rates of conditions linked to poverty: food insecurity, housing instability, and environmental exposures.
 
-**Life expectancy by income**:
-Men in the **top income quintile** live an average of **12.7 years longer** at age 50 than men in the **bottom quintile**. For women, the gap is **13.6 years**. This gap has more than doubled since the 1930s. Geographically, counties with median household income above $100,000 have average life expectancy of **81.6 years** versus **71.7 years** in low-income rural counties — a full decade difference.
-
-**Chronic disease burden**:
-Black, Hispanic, and Native American populations have significantly higher rates of diabetes, hypertension, and obesity — conditions that are major drivers of healthcare spending and that VBC is specifically designed to address. These elevated rates reflect the cumulative effect of disparities in income, housing, food access, and exposure to environmental stressors.
-
-**Procedural disparities**:
-Studies have documented racial disparities in rates of specific high-value procedures that cannot be fully explained by clinical factors — including cardiac catheterization, kidney transplant listing, and pain management. Race influences clinical decision-making in ways that are not always visible to the provider.
+**By geography**: Rural Americans face significant access barriers — fewer providers, fewer specialists, longer distances, and more financially fragile hospitals. See [[rural-health]]. Inner-city populations also face access gaps despite geographic proximity to major medical centers.
 
 ## Social Determinants of Health (SDOH)
 
-**Social determinants** are the conditions in which people are born, grow, live, work, and age — and they account for a large share of health outcomes. Research consistently finds that medical care explains only about **20% of health outcomes**; the other 80% is shaped by behavior, environment, and social factors.
+**Social determinants** are the conditions in which people are born, grow, live, work, and age — and they account for a large share of health outcomes:
 
-Key SDOH dimensions:
+- **Housing**: Stable housing reduces stress, prevents exposure to environmental hazards, and enables adherence to treatment plans
+- **Food security**: Nutrition affects the incidence and management of chronic diseases
+- **Transportation**: Lack of transportation is one of the most commonly cited barriers to keeping medical appointments
+- **Education**: Health literacy affects how people navigate the system and manage their own care
+- **Income and employment**: Financial stress is a direct driver of care avoidance
 
-| Factor | Healthcare connection |
-|---|---|
-| **Housing stability** | Unstable housing correlates with missed appointments, medication non-adherence, and stress-related conditions |
-| **Food security** | Nutrition drives incidence and management of diabetes, heart disease, and obesity |
-| **Transportation** | One of the most commonly cited barriers to keeping medical appointments |
-| **Education / health literacy** | Affects understanding of diagnoses, medication adherence, and system navigation |
-| **Income and employment** | Financial stress drives care avoidance; medical debt triggers bankruptcy |
-| **Environmental exposures** | Air quality, lead exposure, and proximity to industrial sites correlate with respiratory and developmental health |
-
-## CMS SDOH Screening Requirements
-
-CMS has implemented a staged mandatory SDOH screening program:
-
-- **2024 (inpatient hospitals — mandatory)**: Hospitals must screen for five health-related social needs: food insecurity, housing instability, transportation, utility difficulties, and interpersonal safety
-- **2025 (outpatient settings — voluntary)**: Reporting expanded to outpatient hospital departments, rural emergency hospitals, and ambulatory surgical centers
-- **2026 (outpatient — mandatory)**: Full mandatory reporting expands to outpatient settings
-
-New CPT codes now exist for SDOH screenings and care coordination, making it possible for clinicians to bill for social needs work. This is a significant shift — it begins to bring SDOH management inside the reimbursement system rather than treating it as unfunded charitable work.
-
-## The ACO REACH Equity Adjustment
-
-The CMS ACO REACH model includes an explicit financial mechanism to reward organizations that serve underserved populations:
-
-The **Health Equity Benchmark Adjustment (HEBA)** uses a composite equity score incorporating the Area Deprivation Index (ADI), Dual Eligibility status, and Low-Income Subsidy (LIS) status. Adjustment tiers:
-
-- **+$30 PBPM** for beneficiaries in the top decile of the equity score (most underserved)
-- Down to **-$10 PBPM** for beneficiaries in the bottom three deciles
-
-This creates a direct financial incentive for ACOs to enroll and manage high-need populations — countering the traditional risk-selection incentive to avoid sicker or more complex patients.
+Healthcare organizations are beginning to **screen for SDOH** in clinical encounters and connect patients with community resources — recognizing that clinical interventions alone cannot close gaps caused by social conditions.
 
 ## The Shift to Action in 2026
 
-Health equity has historically been treated primarily as a measurement and reporting exercise — documenting disparities without systematic programs to close them. That is changing in several ways:
+Health equity has historically been treated primarily as a measurement and reporting exercise — documenting disparities without systematic programs to close them. That is changing:
 
-**Integration into clinical workflows**: Healthcare organizations are embedding SDOH screening into routine clinical encounters and connecting patients with community resources — food banks, housing assistance, transportation programs — rather than treating social needs as outside the scope of healthcare.
+- Healthcare organizations are integrating SDOH data into **clinical workflows, risk stratification, and care plans** rather than treating it as a separate reporting function
+- **Payment models are beginning to include equity objectives** — requiring providers to demonstrate improvement in outcomes for underserved populations, not just aggregate quality metrics (Source: [10 Healthcare Trends Reshaping the US Healthcare in 2026](https://www.americanhhm.com/articles/10-healthcare-trends-reshaping-us-system-2026))
+- CMS has incorporated equity measures into several Medicare quality programs
 
-**Payment model integration**: CMS and commercial payers are beginning to include equity objectives in quality measurement frameworks, requiring providers to demonstrate improvement in outcomes for underserved populations. The ACO REACH HEBA is the most concrete example.
+The practical challenge: addressing SDOH requires coordination with social service agencies, housing authorities, and food programs — outside the traditional scope of healthcare organizations and generally not reimbursed by insurance.
 
-**Equity as a competitive differentiator**: Organizations that perform well on equity measures receive higher quality bonuses, better Star Ratings in MA, and stronger positioning with CMS innovation programs. Equity is becoming financially relevant, not just reputationally.
+## Policy Context
 
-**The challenge of scope**: Addressing SDOH requires coordination with social service agencies, housing authorities, food programs, and community organizations — well outside the traditional scope and competencies of healthcare organizations. Most healthcare systems are not built or funded to deliver social services, and the handoffs are complex.
+Several OBBBA provisions have **health equity implications**:
 
-## Policy Context: OBBBA and Equity
-
-Several OBBBA provisions have direct health equity implications:
-
-- **Medicaid work requirements** will disproportionately affect low-income people of color, who are overrepresented in the expansion population and face higher barriers to documenting compliance
-- **Navigator funding cut** (from $100M to $10M for ACA enrollment assistors) reduces a resource that disproportionately served non-English-speaking and lower-income populations
-- **The Rural Health Transformation Program** directs investment toward underserved geographic areas, but at $50B over 5 years, its scope is limited relative to the permanent Medicaid cuts affecting those same areas
-
-The net effect of OBBBA on health equity is expected to be negative — the coverage losses are concentrated in populations with already-high disparities.
+- [[medicaid|Medicaid]] work requirements will disproportionately affect low-income people of color, who are overrepresented in the expansion population and face higher barriers to documenting compliance
+- Cuts to navigator funding for [[affordable-care-act|ACA Marketplace]] enrollment assistance reduce a resource that disproportionately served non-English-speaking and lower-income populations
+- The Rural Health Transformation Program directs investment toward underserved geographic areas, but its scope is limited relative to the permanent Medicaid cuts in those same areas
 
 ## Related Pages
 
@@ -102,5 +62,3 @@ The net effect of OBBBA on health equity is expected to be negative — the cove
 - [[affordable-care-act]]
 - [[obbba]]
 - [[workforce]]
-- [[value-based-care]]
-- [[compare-aco-reach-mssp]]

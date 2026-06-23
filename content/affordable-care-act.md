@@ -2,7 +2,7 @@
 
 **Summary**: The 2010 health reform law that created ACA Marketplaces, expanded Medicaid, and established consumer protections for private insurance. Still the foundation of U.S. coverage policy, though undergoing significant changes in 2025–2026.
 
-**Sources**: `The Affordable Care Act 101.md`, `Understanding the Affordable Care Act.md`, `Eight Trends Shaping 2026 Healthcare Costs.md`, `What to expect in US healthcare in 2026 and beyond.md`
+**Sources**: [The Affordable Care Act 101](https://www.kff.org/affordable-care-act/health-policy-101-the-affordable-care-act/), Understanding the Affordable Care Act, [Eight Trends Shaping 2026 Healthcare Costs](https://www.kff.org/health-costs/eight-trends-shaping-2026-health-care-costs/), [What to expect in US healthcare in 2026 and beyond](https://www.mckinsey.com/industries/healthcare/our-insights/what-to-expect-in-us-healthcare)
 
 **Last updated**: 2026-05-12
 

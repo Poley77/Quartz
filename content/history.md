@@ -2,7 +2,7 @@
 
 **Summary**: A chronological account of how the U.S. healthcare system was built — from the pre-Medicare era through the ACA and into the current reform debates. Useful for understanding why the system is structured the way it is.
 
-**Sources**: `A layman's guide to the U.S. health care system.md` (1992, primary for pre-ACA history), `The Affordable Care Act 101.md`, `Eight Trends Shaping 2026 Healthcare Costs.md`
+**Sources**: [A layman's guide to the U.S. health care system](https://pmc.ncbi.nlm.nih.gov/articles/PMC4193322/) (1992, primary for pre-ACA history), [The Affordable Care Act 101](https://www.kff.org/affordable-care-act/health-policy-101-the-affordable-care-act/), [Eight Trends Shaping 2026 Healthcare Costs](https://www.kff.org/health-costs/eight-trends-shaping-2026-health-care-costs/)
 
 **Last updated**: 2026-05-12
 

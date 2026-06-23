@@ -2,7 +2,7 @@
 
 **Summary**: Who MSOs and care platform operators are, how they make money, and how they fit into the broader VBC ecosystem.
 
-**Sources**: Workweek, "Breaking Down the Care Platform Landscape" (May 2022)
+**Sources**: Workweek, ["Breaking Down the Care Platform Landscape"](https://workweek.com/2022/05/12/breaking-down-care-platform-landscape/) (May 2022)
 
 **Last updated**: 2026-06-22
 

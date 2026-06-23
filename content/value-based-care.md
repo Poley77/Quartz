@@ -2,7 +2,7 @@
 
 **Summary**: The ongoing shift in U.S. healthcare payment from fee-for-service (volume) to outcome- and quality-based models — still in transition after decades of effort, and becoming a strategic priority rather than a pilot program in 2026.
 
-**Sources**: `What to expect in US healthcare in 2026 and beyond.md`, `10 Healthcare Trends Reshaping the US Healthcare in 2026.md`, `Healthcare System Priorities in 2026.md`, `A layman's guide to the U.S. health care system.md`, Elevance Health (Jan 2025), PHTI 2025 State of Digital Health Purchasing
+**Sources**: [What to expect in US healthcare in 2026 and beyond](https://www.mckinsey.com/industries/healthcare/our-insights/what-to-expect-in-us-healthcare), [10 Healthcare Trends Reshaping the US Healthcare in 2026](https://www.americanhhm.com/articles/10-healthcare-trends-reshaping-us-system-2026), Healthcare System Priorities in 2026, [A layman's guide to the U.S. health care system](https://pmc.ncbi.nlm.nih.gov/articles/PMC4193322/), Elevance Health (Jan 2025), [PHTI 2025 State of Digital Health Purchasing](https://phti.org/2025-state-of-digital-health-purchasing/)
 
 **Last updated**: 2026-05-17
 
@@ -12,7 +12,7 @@
 
 The traditional U.S. payment system pays providers for each service rendered — a visit, a test, a procedure. This **fee-for-service (FFS)** model creates a structural incentive to deliver more care, not better care. More admissions, more tests, and more procedures mean more revenue regardless of patient outcomes.
 
-Studies have documented the consequences. RAND Corporation research found that **15–30% of certain procedures are inappropriate or unnecessary** by clinical evidence standards. Geographic variation in procedure rates is dramatic and cannot be explained by patient population differences — it reflects how FFS incentives interact with local physician practice patterns. (Source: `A layman's guide to the U.S. health care system.md`)
+Studies have documented the consequences. RAND Corporation research found that **15–30% of certain procedures are inappropriate or unnecessary** by clinical evidence standards. Geographic variation in procedure rates is dramatic and cannot be explained by patient population differences — it reflects how FFS incentives interact with local physician practice patterns. (Source: [A layman's guide to the U.S. health care system](https://pmc.ncbi.nlm.nih.gov/articles/PMC4193322/))
 
 FFS also creates a fragmentation incentive: specialists, hospitals, and primary care physicians are each paid separately for their portion of care, with no payment for coordination between them.
 
@@ -50,7 +50,7 @@ As of 2026, value-based care is at an inflection point. Key characteristics:
 - Both government and commercial payers are expanding outcome-based reimbursement arrangements
 - Fee-for-service models continue to dominate actual volume, but more providers are entering risk-based contracts
 - Health systems are beginning to restructure care pathways around **longitudinal patient outcomes** rather than episodic treatment
-- 2026 is described as a "junction point" where VBC becomes a strategic operational priority rather than a pilot program (Source: `10 Healthcare Trends Reshaping the US Healthcare in 2026.md`)
+- 2026 is described as a "junction point" where VBC becomes a strategic operational priority rather than a pilot program (Source: [10 Healthcare Trends Reshaping the US Healthcare in 2026](https://www.americanhhm.com/articles/10-healthcare-trends-reshaping-us-system-2026))
 - Continued growth of VBC estimated at **2–4% annually** through 2029 (Source: McKinsey)
 
 **Medicare Advantage** — the privatized Medicare option — is the largest VBC laboratory in the U.S. Plans receive a capitated payment from CMS and must provide all Medicare benefits plus often supplemental benefits, creating strong incentives to keep members healthy and out of hospitals. MA enrolled roughly half of all Medicare beneficiaries by 2024.
@@ -59,7 +59,7 @@ As of 2026, value-based care is at an inflection point. Key characteristics:
 
 Despite decades of effort, FFS still dominates U.S. healthcare. The barriers are structural:
 
-**Data and analytics gaps**: VBC requires knowing which patients are high-risk before they get sick — and acting proactively. Most health systems are still building the data infrastructure, care coordination platforms, and population health tools required. (Source: `Healthcare System Priorities in 2026.md`)
+**Data and analytics gaps**: VBC requires knowing which patients are high-risk before they get sick — and acting proactively. Most health systems are still building the data infrastructure, care coordination platforms, and population health tools required. (Source: Healthcare System Priorities in 2026)
 
 **Dual running costs**: During the transition period, providers simultaneously bear the overhead of FFS billing (needed for revenue today) and the investment in VBC infrastructure (needed for tomorrow). Margins of 1–2% leave little room for this.
 

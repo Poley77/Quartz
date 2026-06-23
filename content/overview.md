@@ -2,7 +2,7 @@
 
 **Summary**: A high-level map of how the U.S. healthcare system is structured, who pays for care, and the major pressures shaping it in 2026.
 
-**Sources**: `What to expect in US healthcare in 2026 and beyond.md`, `Eight Trends Shaping 2026 Healthcare Costs.md`, `Healthcare System Priorities in 2026.md`, `10 Healthcare Trends Reshaping the US Healthcare in 2026.md`
+**Sources**: [What to expect in US healthcare in 2026 and beyond](https://www.mckinsey.com/industries/healthcare/our-insights/what-to-expect-in-us-healthcare), [Eight Trends Shaping 2026 Healthcare Costs](https://www.kff.org/health-costs/eight-trends-shaping-2026-health-care-costs/), Healthcare System Priorities in 2026, [10 Healthcare Trends Reshaping the US Healthcare in 2026](https://www.americanhhm.com/articles/10-healthcare-trends-reshaping-us-system-2026)
 
 **Last updated**: 2026-05-12
 
@@ -32,37 +32,7 @@ Healthcare now represents nearly **one in every five dollars** spent in the U.S.
 | Individuals (out-of-pocket) | 6% |
 | Other private | ~29% |
 
-(Source: CMS National Health Expenditure Data, cited in `Eight Trends Shaping 2026 Healthcare Costs.md`)
-
-```mermaid
-flowchart LR
-    classDef gov fill:#3b6ea5,stroke:#2a5080,color:#fff
-    classDef private fill:#2e8b57,stroke:#1f6b3e,color:#fff
-    classDef program fill:#6a5acd,stroke:#4b3fa8,color:#fff
-    classDef provider fill:#c0623a,stroke:#9a4a28,color:#fff
-
-    Fed["🏛 Federal Gov — 31%"]:::gov
-    State["🏛 State & Local — 16%"]:::gov
-    Emp["🏢 Employers — 18%"]:::private
-    Ind["👤 Individuals — 6%"]:::private
-
-    Medicare["Medicare"]:::program
-    Medicaid["Medicaid"]:::program
-    Private["Private Insurance (ESI + ACA)"]:::program
-
-    Providers["🏥 Hospitals & Physicians"]:::provider
-
-    Fed --> Medicare
-    Fed --> Medicaid
-    State --> Medicaid
-    Emp --> Private
-    Ind --> Private
-    Ind -->|out-of-pocket| Providers
-
-    Medicare --> Providers
-    Medicaid --> Providers
-    Private --> Providers
-```
+(Source: CMS National Health Expenditure Data, cited in [Eight Trends Shaping 2026 Healthcare Costs](https://www.kff.org/health-costs/eight-trends-shaping-2026-health-care-costs/))
 
 ## Where the Money Goes
 

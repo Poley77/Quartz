@@ -2,7 +2,7 @@
 
 **Summary**: Key facts about the U.S. hospital landscape — current statistics, financial pressures, and structural shifts shaping how hospitals operate in 2026.
 
-**Sources**: `Fast Facts on U.S. Hospitals, 2026.md`, `What to expect in US healthcare in 2026 and beyond.md`, `Healthcare System Priorities in 2026.md`
+**Sources**: [Fast Facts on U.S. Hospitals, 2026](https://www.aha.org/statistics/fast-facts-us-hospitals), [What to expect in US healthcare in 2026 and beyond](https://www.mckinsey.com/industries/healthcare/our-insights/what-to-expect-in-us-healthcare), Healthcare System Priorities in 2026
 
 **Last updated**: 2026-05-12
 

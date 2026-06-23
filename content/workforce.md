@@ -2,7 +2,7 @@
 
 **Summary**: The most acute operational challenge facing U.S. healthcare systems in 2026 — a convergence of clinician burnout, structural shortages, and unsustainable administrative burden.
 
-**Sources**: `Healthcare System Priorities in 2026.md`, `10 Healthcare Trends Reshaping the US Healthcare in 2026.md`, `What to expect in US healthcare in 2026 and beyond.md`
+**Sources**: Healthcare System Priorities in 2026, [10 Healthcare Trends Reshaping the US Healthcare in 2026](https://www.americanhhm.com/articles/10-healthcare-trends-reshaping-us-system-2026), [What to expect in US healthcare in 2026 and beyond](https://www.mckinsey.com/industries/healthcare/our-insights/what-to-expect-in-us-healthcare)
 
 **Last updated**: 2026-05-12
 

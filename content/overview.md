@@ -41,16 +41,16 @@ flowchart LR
     classDef program fill:#6a5acd,stroke:#4b3fa8,color:#fff,rx:6
     classDef provider fill:#c0623a,stroke:#9a4a28,color:#fff,rx:6
 
-    Fed["🏛 Federal Gov\n31%"]:::gov
-    State["🏛 State & Local\n16%"]:::gov
-    Emp["🏢 Employers\n18%"]:::private
-    Ind["👤 Individuals\n6%"]:::private
+    Fed["🏛 Federal Gov — 31%"]:::gov
+    State["🏛 State & Local — 16%"]:::gov
+    Emp["🏢 Employers — 18%"]:::private
+    Ind["👤 Individuals — 6%"]:::private
 
     Medicare["Medicare"]:::program
     Medicaid["Medicaid"]:::program
-    Private["Private Insurance\nESI + ACA"]:::program
+    Private["Private Insurance (ESI + ACA)"]:::program
 
-    Providers["🏥 Hospitals &\nPhysicians"]:::provider
+    Providers["🏥 Hospitals & Physicians"]:::provider
 
     Fed --> Medicare
     Fed --> Medicaid

@@ -25,10 +25,7 @@ Table of contents for the U.S. Healthcare System wiki. All pages are in `/Wiki/`
 | [[medicare]] | Federal program for adults 65+, the disabled, and ESRD patients; Part A/B/C/D structure; Medicare Advantage trends |
 | [[medicaid]] | Joint federal-state program for low-income Americans; dominant payer for long-term care; undergoing largest restructuring since creation |
 | [[medicare-advantage-policy-primer]] | MA structure, enrollment growth, Star Ratings, payment mechanics, and key policy debates |
-| [[taking-stock-medicare-advantage-payment]] | Evidence on MA overpayment, benchmark structure, and the ongoing payment reform debate |
 | [[6-insights-on-the-new-ma-reality]] | How the MA market shifted after 2023 rate cuts: rising costs, coding scrutiny, benefit reductions, and quality differentiation |
-| [[how-risk-adjustment-affects-payment-medicare-advantage-plans]] | How CMS uses HCC risk scores to set MA capitation rates, and why the system is contested |
-| [[risk-adjustment-coding]] | How HCC coding works, why coding accuracy determines VBC revenue, and what's changing in 2026 |
 
 ## Legislation
 
@@ -49,22 +46,52 @@ Table of contents for the U.S. Healthcare System wiki. All pages are in `/Wiki/`
 
 ## Delivery System
 
-*How care is actually delivered — the traditional model, why it's broken, and the transition to value-based care.*
+*How care is actually delivered — the traditional model, its structural problems, and the technology reshaping it.*
 
 | Page | Description |
 |---|---|
 | [[fee-for-service]] | The traditional volume-based payment model: how it works, why it persists, what it gets right, and why it's being replaced |
 | [[hospitals]] | 6,100 hospitals; financial condition; inpatient-to-outpatient shift; uncompensated care pressures; AI adoption |
 | [[workforce]] | Clinician burnout, structural shortages, administrative burden, AI ambient scribing, and role redesign responses |
+| [[ai-and-technology]] | AI from pilot to infrastructure: ambient scribing, clinical decision support, coding inflation risk, HST sector growth |
+
+## Value-Based Care & Risk Adjustment
+
+*The shift from volume to value — how alternative payment models work, how risk is measured and priced, and the mechanics of HCC coding that underpin capitated payment.*
+
+### VBC Fundamentals
+
+| Page | Description |
+|---|---|
 | [[value-based-care]] | The shift from fee-for-service to outcome-based payment: HMO history, ACOs, Medicare Advantage, 2026 status, and barriers to transition |
 | [[value-based-care-what-it-is-why-its-needed]] | Why VBC exists: the structural failures of fee-for-service and what outcome-based payment is designed to fix |
 | [[intro-to-value-based-care]] | Two healthcare systems in parallel — FFS vs. VBC mechanics, shared savings vs. capitation, and why VBC is winning |
-| [[inside-the-value-based-care-ecosystem]] | Map of VBC ecosystem players (CMS, MA plans, ACOs, MSOs, PCPs) and how risk flows between them |
 | [[the-strategy-that-will-fix-health-care]] | Porter & Lee's foundational HBR framework: six-part agenda for value-based competition |
+| [[inside-the-value-based-care-ecosystem]] | Map of VBC ecosystem players (CMS, MA plans, ACOs, MSOs, PCPs) and how risk flows between them |
+| [[vbc-under-pressure-five-insights-from-the-front-lines]] | Five practitioner insights on the real operational, financial, and data challenges of implementing VBC |
+
+### ACO Programs
+
+| Page | Description |
+|---|---|
 | [[compare-aco-reach-mssp]] | ACO REACH vs. MSSP side-by-side: risk models, payment structures, and which fits which organization |
 | [[the-math-of-acos]] | How ACOs generate savings: benchmark mechanics, what drives high performance, and why the numbers are harder than they look |
-| [[vbc-under-pressure-five-insights-from-the-front-lines]] | Five practitioner insights on the real operational, financial, and data challenges of implementing VBC |
-| [[ai-and-technology]] | AI from pilot to infrastructure: ambient scribing, clinical decision support, coding inflation risk, HST sector growth |
+
+### Risk Adjustment & HCC Coding
+
+| Page | Description |
+|---|---|
+| [[risk-adjustment-basics]] | Why risk adjustment exists, how it works across MA, ACA Marketplaces, and Medicaid managed care, the coding intensity problem, and policy limitations |
+| [[hcc-coding-intro]] | What HCCs are, how RAF scores are calculated, the annual reset, and why coding accuracy is the financial foundation of capitated payment |
+| [[hcc-coding-radv-audits]] | MEAT documentation criteria, annual recapture requirements, the RADV audit process, and prospective vs. retrospective coding |
+| [[risk-adjustment-coding]] | How HCC coding works in practice, common coding gaps, and what's changing under V28 in 2026 |
+| [[how-risk-adjustment-affects-payment-medicare-advantage-plans]] | How CMS uses HCC risk scores to set MA capitation rates, why plans are overpaid, and how RADV and V28 are correcting this |
+| [[taking-stock-medicare-advantage-payment]] | Evidence on MA overpayment, benchmark structure, and the ongoing payment reform debate |
+
+### Evidence & Research
+
+| Page | Description |
+|---|---|
 | [[phyx-2025-report-key-findings-on-navinas-ai-for-value-based-care]] | Independent study measuring Navina's AI impact on coding accuracy, care gap closure, and physician efficiency in VBC settings |
 
 ---

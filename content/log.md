@@ -4,6 +4,21 @@ Append-only record of all wiki operations. Most recent entry at the top.
 
 ---
 
+## 2026-06-23 — Created new "Value-Based Care & Risk Adjustment" wiki section with 4 new pages; restructured index
+
+**Sources ingested**: RAAPID (HCC coding / RADV), Commonwealth Fund (Risk Adjustment Basics)
+
+**Pages created**:
+- `hcc-coding-intro.md` — What HCCs are, how RAF scores are calculated, the annual reset, CMS-HCC model versions (V21/V24/V28), and why coding accuracy is the financial foundation of capitated payment
+- `hcc-coding-radv-audits.md` — MEAT criteria, annual recapture requirements, documentation hierarchy for audit defense, the RADV audit process (301–450 chart samples, extrapolation, $4B+ recoupments), and prospective vs. retrospective coding
+- `risk-adjustment-basics.md` — Foundational overview: the adverse selection problem, how risk adjustment works across MA, ACA Marketplaces, and Medicaid managed care, prospective vs. concurrent vs. retrospective approaches, coding intensity problem, health equity limitations
+- `index.md` restructured: new "Value-Based Care & Risk Adjustment" section with subsections (VBC Fundamentals, ACO Programs, Risk Adjustment & HCC Coding, Evidence & Research); VBC pages moved from Delivery System; risk adjustment pages moved from Coverage and Insurance
+
+**Pages updated**:
+- `index.md` — Delivery System trimmed to operational pages (FFS, hospitals, workforce, AI); new VBC & Risk Adjustment section added with 4 subsections covering 12 pages
+
+---
+
 ## 2026-06-22 — Created 14 new wiki pages on VBC, risk adjustment, Medicare Advantage, and Navina; updated index.md
 
 **Sources ingested**: Commonwealth Fund, Pearcalls, Navina, Aledade, HBR (Porter & Lee), McKinsey, Workweek, RAAPID, PHYX

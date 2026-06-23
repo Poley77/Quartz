@@ -34,6 +34,35 @@ Healthcare now represents nearly **one in every five dollars** spent in the U.S.
 
 (Source: CMS National Health Expenditure Data, cited in `Eight Trends Shaping 2026 Healthcare Costs.md`)
 
+```mermaid
+flowchart LR
+    subgraph payers ["Who Pays"]
+        Fed["Federal Gov\n31%"]
+        State["State & Local\n16%"]
+        Emp["Employers\n18%"]
+        Ind["Individuals\n6%"]
+    end
+
+    subgraph programs ["Coverage Programs"]
+        Medicare["Medicare"]
+        Medicaid["Medicaid"]
+        Private["Private Insurance\nESI + ACA"]
+    end
+
+    Providers["Hospitals &\nPhysicians"]
+
+    Fed --> Medicare
+    Fed --> Medicaid
+    State --> Medicaid
+    Emp --> Private
+    Ind --> Private
+    Ind -->|out-of-pocket| Providers
+
+    Medicare --> Providers
+    Medicaid --> Providers
+    Private --> Providers
+```
+
 ## Where the Money Goes
 
 - **Hospitals**: ~40% of recent spending growth

@@ -28,6 +28,10 @@ jobs:
         run: npm ci
       - name: Build Quartz
         run: npx quartz build
+      - name: Inject chat widget into all pages
+        run: |
+          find public -name "*.html" -exec sed -i \
+            's|</body>|<script src="/health-system-wiki/static/wiki-chat.js"></script></body>|g' {} +
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

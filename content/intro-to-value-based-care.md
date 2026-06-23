@@ -2,7 +2,7 @@
 
 **Summary**: A business model lens on VBC — why two fundamentally different healthcare systems are operating in parallel right now, and why one is winning.
 
-**Sources**: Pearcalls, "The Healthcare Business Model That Will Define the Next Decade" (2025)
+**Sources**: Pearcalls, ["The Healthcare Business Model That Will Define the Next Decade"](https://www.pearcalls.com/blog/intro-to-value-based-care) (2025)
 
 **Last updated**: 2026-06-22
 

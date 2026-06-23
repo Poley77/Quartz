@@ -1,3 +1,34 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+// Navina brand purple overrides for left explorer nav
+.explorer-content ul li > a {
+  color: var(--dark);
+  opacity: 0.75;
+}
+.explorer-content ul li > a.active,
+.explorer-content ul li > a:hover {
+  opacity: 1;
+  color: var(--secondary) !important;
+}
+
+// Section/folder headings in explorer
+.folder-container div > a,
+.folder-container div > button span {
+  color: var(--secondary) !important;
+}
+.folder-container div > a:hover,
+.folder-icon:hover {
+  color: var(--tertiary) !important;
+}
+.folder-icon {
+  color: var(--secondary) !important;
+}
+
+// TOC on right sidebar
+.toc a {
+  color: var(--dark);
+}
+.toc a:hover,
+.toc li.is-active > a {
+  color: var(--secondary) !important;
+}

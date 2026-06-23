@@ -36,20 +36,21 @@ Healthcare now represents nearly **one in every five dollars** spent in the U.S.
 
 ```mermaid
 flowchart LR
-    subgraph payers ["Who Pays"]
-        Fed["Federal Gov\n31%"]
-        State["State & Local\n16%"]
-        Emp["Employers\n18%"]
-        Ind["Individuals\n6%"]
-    end
+    classDef gov fill:#3b6ea5,stroke:#2a5080,color:#fff,rx:6
+    classDef private fill:#2e8b57,stroke:#1f6b3e,color:#fff,rx:6
+    classDef program fill:#6a5acd,stroke:#4b3fa8,color:#fff,rx:6
+    classDef provider fill:#c0623a,stroke:#9a4a28,color:#fff,rx:6
 
-    subgraph programs ["Coverage Programs"]
-        Medicare["Medicare"]
-        Medicaid["Medicaid"]
-        Private["Private Insurance\nESI + ACA"]
-    end
+    Fed["🏛 Federal Gov\n31%"]:::gov
+    State["🏛 State & Local\n16%"]:::gov
+    Emp["🏢 Employers\n18%"]:::private
+    Ind["👤 Individuals\n6%"]:::private
 
-    Providers["Hospitals &\nPhysicians"]
+    Medicare["Medicare"]:::program
+    Medicaid["Medicaid"]:::program
+    Private["Private Insurance\nESI + ACA"]:::program
+
+    Providers["🏥 Hospitals &\nPhysicians"]:::provider
 
     Fed --> Medicare
     Fed --> Medicaid

@@ -18,23 +18,6 @@ The other is [[value-based-care]]: get paid for keeping a population healthy. Ou
 
 One is shrinking. The other is quietly taking over. More than half of Medicare patients are already in value-based arrangements, and CMS has set a goal for all Medicare fee-for-service beneficiaries to be in accountable care arrangements by 2030.
 
-```mermaid
-flowchart LR
-    subgraph ffs ["Fee-for-Service"]
-        direction TB
-        F1["Patient receives\nservice"] --> F2["Claim submitted\nper procedure"]
-        F2 --> F3["Revenue = Volume"]
-        F3 --> F4["Prevention &\ncoordination\nnot rewarded"]
-    end
-
-    subgraph vbc ["Value-Based Care"]
-        direction TB
-        V1["Population\nassigned to provider"] --> V2["Outcomes &\ncosts tracked"]
-        V2 --> V3["Spending vs.\nbenchmark"]
-        V3 --> V4["Provider shares\nin savings"]
-    end
-```
-
 ## Why Fee-for-Service Fails Chronic Care
 
 For most of the 20th century, FFS worked reasonably well — healthcare was about fixing acute problems. You got sick, you saw a doctor, they treated you, you got better.

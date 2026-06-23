@@ -32,6 +32,8 @@ CMS offers two primary ACO programs for physician organizations seeking to parti
 
 MSSP is the entry point for most organizations new to ACO participation. Early tracks allow organizations to share in savings without taking on downside risk — making it a lower-stakes way to build VBC capabilities.
 
+![[MSSP Shared Savings.png]]
+
 As organizations mature, they can move into tracks that require them to share in losses as well. Organizations that succeed in these tracks typically have:
 
 - Strong primary care relationships

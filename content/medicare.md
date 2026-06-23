@@ -8,6 +8,16 @@
 
 ---
 
+## Historical Context
+
+Medicare was enacted in 1965 alongside [[medicaid|Medicaid]] as a compromise — rather than universal national insurance, coverage was targeted at the elderly (who were effectively uninsurable in private markets) and the poor. The program initially paid hospitals their costs and physicians their charges, contributing to rapid healthcare cost inflation in the 1970s.
+
+Two major payment reforms reshaped Medicare economics:
+- **1983**: Prospective Payment System (DRGs) — hospitals now receive a fixed payment per admission based on diagnosis, not actual costs
+- **1992**: Resource-Based Relative Value Scale (RBRVS) — physician payment based on input resources, not historical charges
+
+The [[affordable-care-act|ACA (2010)]] made additional changes: phased out the Part D "donut hole," added preventive benefits without cost-sharing, cut growth in payments to hospitals and Medicare Advantage plans, and created the Medicare Shared Savings Program (ACO program).
+
 ## Structure
 
 Medicare has four parts:
@@ -35,16 +45,6 @@ The aging population is the dominant long-term driver of Medicare costs:
 - Population aged 80 and above grew from 3.8% of the U.S. in 2017 to 4.2% in 2024, and is projected to reach 5.2% by 2029 (U.S. Census Bureau)
 - The 80+ age group spends $1,673 per member per month — the highest of any age cohort — and is growing at 4.8% per year
 - This demographic shift is expected to add 0.5–1.0% to annual claims costs
-
-## Historical Context
-
-Medicare was enacted in 1965 alongside [[medicaid|Medicaid]] as a compromise — rather than universal national insurance, coverage was targeted at the elderly (who were effectively uninsurable in private markets) and the poor. The program initially paid hospitals their costs and physicians their charges, contributing to rapid healthcare cost inflation in the 1970s.
-
-Two major payment reforms reshaped Medicare economics:
-- **1983**: Prospective Payment System (DRGs) — hospitals now receive a fixed payment per admission based on diagnosis, not actual costs
-- **1992**: Resource-Based Relative Value Scale (RBRVS) — physician payment based on input resources, not historical charges
-
-The [[affordable-care-act|ACA (2010)]] made additional changes: phased out the Part D "donut hole," added preventive benefits without cost-sharing, cut growth in payments to hospitals and Medicare Advantage plans, and created the Medicare Shared Savings Program (ACO program).
 
 ## What Medicare Does Not Cover
 

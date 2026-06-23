@@ -96,3 +96,31 @@ showReadingTime: false
 |---|---|
 | [[index]] | This page — table of contents for the entire wiki |
 | [[log]] | Append-only record of all wiki operations |
+
+---
+
+## List of Articles
+
+*The primary source articles on which this wiki is built.*
+
+- [6 Insights on the New MA Reality](https://www.navina.ai/articles/6-insights-on-the-new-ma-reality) — Navina (2026)
+- [ACO REACH vs. MSSP Explained](https://aledade.com/value-based-care-resources/guides/compare-aco-reach-mssp/) — Aledade (April 2026)
+- [Breaking Down the Care Platform Landscape](https://workweek.com/2022/05/12/breaking-down-care-platform-landscape/) — Workweek / Hospitalogy (May 2022)
+- [How Risk Adjustment Affects Payment for Medicare Advantage Plans](https://www.commonwealthfund.org/publications/explainer/2026/jan/how-risk-adjustment-affects-payment-medicare-advantage-plans) — Commonwealth Fund (January 2026)
+- [Medicare Advantage: A Policy Primer](https://www.commonwealthfund.org/publications/explainer/2024/jan/medicare-advantage-policy-primer) — Commonwealth Fund (January 2024)
+- [Taking Stock of Medicare Advantage Payment](https://www.commonwealthfund.org/blog/2022/taking-stock-medicare-advantage-payment) — Commonwealth Fund (2022)
+- [Phyx 2025 Report: Key Findings on Navina's AI for Value-Based Care](https://www.navina.ai/articles/phyx-2025-report-key-findings-on-navinas-ai-for-value-based-care) — PHYX / Navina (2025)
+- [Risk Adjustment Coding in 2026](https://www.raapidinc.com/blogs/risk-adjustment-coding/) — RAAPID
+- [The Math of ACOs](https://www.mckinsey.com/industries/healthcare/our-insights/the-math-of-acos) — McKinsey & Company
+- [The Strategy That Will Fix Health Care](https://hbr.org/2013/10/the-strategy-that-will-fix-health-care) — Porter & Lee, Harvard Business Review (October 2013)
+- [Inside the Value-Based Care Ecosystem](https://www.pearcalls.com/blog/inside-the-value-based-care-ecosystem) — Pearcalls (November 2025)
+- [The Healthcare Business Model That Will Define the Next Decade](https://www.pearcalls.com/blog/intro-to-value-based-care) — Pearcalls (November 2025)
+- [VBC Under Pressure: Five Insights from the Front Lines](https://www.navina.ai/articles/vbc-under-pressure-five-insights-from-the-front-lines) — Navina
+- [What to Expect in US Healthcare in 2026 and Beyond](https://www.mckinsey.com/industries/healthcare/our-insights/what-to-expect-in-us-healthcare) — McKinsey & Company
+- [10 Healthcare Trends Reshaping the US Healthcare in 2026](https://www.americanhhm.com/articles/10-healthcare-trends-reshaping-us-system-2026) — American HHM
+- [Eight Trends Shaping 2026 Healthcare Costs](https://www.kff.org/health-costs/eight-trends-shaping-2026-health-care-costs/) — KFF
+- [The U.S. Health Care System in 2026: Inside the Great Healthcare Plan](https://www.biobrain.io/blog/the-u-s-health-care-system-in-2026-inside-the-great-healthcare-plan) — BioBrain
+- [The Affordable Care Act 101](https://www.kff.org/affordable-care-act/health-policy-101-the-affordable-care-act/) — KFF
+- [Understanding the Affordable Care Act](https://www.hhs.gov/healthcare/about-the-aca/index.html) — HHS.gov
+- [A Layman's Guide to the U.S. Health Care System](https://pubmed.ncbi.nlm.nih.gov/10124436/) — DeLew, Greenberg & Kinchen, Health Care Financing Review (1992)
+- [Fast Facts on U.S. Hospitals, 2026](https://www.aha.org/statistics/fast-facts-us-hospitals) — American Hospital Association

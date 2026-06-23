@@ -2,7 +2,7 @@
 
 **Summary**: The joint federal-state health insurance program for low-income Americans — and the primary public insurer for long-term care. Currently undergoing the largest restructuring since its creation via the 2025 OBBBA.
 
-**Sources**: [What to expect in US healthcare in 2026 and beyond](https://www.mckinsey.com/industries/healthcare/our-insights/what-to-expect-in-us-healthcare), [Eight Trends Shaping 2026 Healthcare Costs](https://www.kff.org/health-costs/eight-trends-shaping-2026-health-care-costs/), [The Affordable Care Act 101](https://www.kff.org/affordable-care-act/health-policy-101-the-affordable-care-act/)
+**Sources**: [What to expect in US healthcare in 2026 and beyond](https://www.mckinsey.com/industries/healthcare/our-insights/what-to-expect-in-us-healthcare), [Eight Trends Shaping 2026 Healthcare Costs](https://www.healthsystemtracker.org/chart-collection/eight-trends-shaping-2026-healthcare-costs/#Average%20monthly%20health%20insurance%20premiums,%20by%20market%20segment,%202010-2024), [The Affordable Care Act 101](https://www.kff.org/affordable-care-act/health-policy-101-the-affordable-care-act/)
 
 **Last updated**: 2026-05-12
 

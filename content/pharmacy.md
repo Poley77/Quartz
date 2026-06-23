@@ -2,7 +2,7 @@
 
 **Summary**: Prescription drug spending is one of the fastest-growing cost drivers in U.S. healthcare, shaped by the rise of specialty biologics, GLP-1 therapies, and sweeping changes to how drugs are priced, distributed, and reimbursed.
 
-**Sources**: [What to expect in US healthcare in 2026 and beyond](https://www.mckinsey.com/industries/healthcare/our-insights/what-to-expect-in-us-healthcare), [Eight Trends Shaping 2026 Healthcare Costs](https://www.kff.org/health-costs/eight-trends-shaping-2026-health-care-costs/), [The U.S. Health Care System in 2026: Inside the Great Healthcare Plan](https://www.biobrain.io/blog/the-u-s-health-care-system-in-2026-inside-the-great-healthcare-plan)
+**Sources**: [What to expect in US healthcare in 2026 and beyond](https://www.mckinsey.com/industries/healthcare/our-insights/what-to-expect-in-us-healthcare), [Eight Trends Shaping 2026 Healthcare Costs](https://www.healthsystemtracker.org/chart-collection/eight-trends-shaping-2026-healthcare-costs/#Average%20monthly%20health%20insurance%20premiums,%20by%20market%20segment,%202010-2024), [The U.S. Health Care System in 2026: Inside the Great Healthcare Plan](https://www.biobrain.io/blog/the-u-s-health-care-system-in-2026-inside-the-great-healthcare-plan)
 
 **Last updated**: 2026-05-12
 
@@ -14,7 +14,7 @@ Drug net spending rose **11% from 2023 to 2024** — faster than any other categ
 
 U.S. gross drug spending is projected to reach **$990 billion by 2029**, growing roughly 8% annually. The pharmacy services segment is expected to reach **$114 billion in EBITDA by 2029**, growing at 6% annually.
 
-The U.S. spends roughly **twice as much per capita on prescription drugs** as peer nations — a gap that has persisted for decades despite repeated policy efforts. (Source: [Eight Trends Shaping 2026 Healthcare Costs](https://www.kff.org/health-costs/eight-trends-shaping-2026-health-care-costs/))
+The U.S. spends roughly **twice as much per capita on prescription drugs** as peer nations — a gap that has persisted for decades despite repeated policy efforts. (Source: [Eight Trends Shaping 2026 Healthcare Costs](https://www.healthsystemtracker.org/chart-collection/eight-trends-shaping-2026-healthcare-costs/#Average%20monthly%20health%20insurance%20premiums,%20by%20market%20segment,%202010-2024))
 
 ## The GLP-1 Effect
 

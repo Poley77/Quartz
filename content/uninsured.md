@@ -2,7 +2,7 @@
 
 **Summary**: Approximately 26–28 million Americans lacked health insurance as of 2024 — a number projected to grow significantly due to OBBBA Medicaid cuts and ACA subsidy expiration, reversing the gains made under the ACA.
 
-**Sources**: [Eight Trends Shaping 2026 Healthcare Costs](https://www.kff.org/health-costs/eight-trends-shaping-2026-health-care-costs/), [What to expect in US healthcare in 2026 and beyond](https://www.mckinsey.com/industries/healthcare/our-insights/what-to-expect-in-us-healthcare), [A layman's guide to the U.S. health care system](https://pmc.ncbi.nlm.nih.gov/articles/PMC4193322/), [The Affordable Care Act 101](https://www.kff.org/affordable-care-act/health-policy-101-the-affordable-care-act/)
+**Sources**: [Eight Trends Shaping 2026 Healthcare Costs](https://www.healthsystemtracker.org/chart-collection/eight-trends-shaping-2026-healthcare-costs/#Average%20monthly%20health%20insurance%20premiums,%20by%20market%20segment,%202010-2024), [What to expect in US healthcare in 2026 and beyond](https://www.mckinsey.com/industries/healthcare/our-insights/what-to-expect-in-us-healthcare), [A layman's guide to the U.S. health care system](https://pmc.ncbi.nlm.nih.gov/articles/PMC4193322/), [The Affordable Care Act 101](https://www.kff.org/affordable-care-act/health-policy-101-the-affordable-care-act/)
 
 **Last updated**: 2026-05-12
 

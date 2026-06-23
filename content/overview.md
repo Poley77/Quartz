@@ -2,7 +2,7 @@
 
 **Summary**: A high-level map of how the U.S. healthcare system is structured, who pays for care, and the major pressures shaping it in 2026.
 
-**Sources**: [What to expect in US healthcare in 2026 and beyond](https://www.mckinsey.com/industries/healthcare/our-insights/what-to-expect-in-us-healthcare), [Eight Trends Shaping 2026 Healthcare Costs](https://www.kff.org/health-costs/eight-trends-shaping-2026-health-care-costs/), Healthcare System Priorities in 2026, [10 Healthcare Trends Reshaping the US Healthcare in 2026](https://www.americanhhm.com/articles/10-healthcare-trends-reshaping-us-system-2026)
+**Sources**: [What to expect in US healthcare in 2026 and beyond](https://www.mckinsey.com/industries/healthcare/our-insights/what-to-expect-in-us-healthcare), [Eight Trends Shaping 2026 Healthcare Costs](https://www.healthsystemtracker.org/chart-collection/eight-trends-shaping-2026-healthcare-costs/#Average%20monthly%20health%20insurance%20premiums,%20by%20market%20segment,%202010-2024), Healthcare System Priorities in 2026, [10 Healthcare Trends Reshaping the US Healthcare in 2026](https://www.americanhhm.com/articles/10-healthcare-trends-reshaping-us-system-2026)
 
 **Last updated**: 2026-05-12
 
@@ -32,7 +32,7 @@ Healthcare now represents nearly **one in every five dollars** spent in the U.S.
 | Individuals (out-of-pocket) | 6% |
 | Other private | ~29% |
 
-(Source: CMS National Health Expenditure Data, cited in [Eight Trends Shaping 2026 Healthcare Costs](https://www.kff.org/health-costs/eight-trends-shaping-2026-health-care-costs/))
+(Source: CMS National Health Expenditure Data, cited in [Eight Trends Shaping 2026 Healthcare Costs](https://www.healthsystemtracker.org/chart-collection/eight-trends-shaping-2026-healthcare-costs/#Average%20monthly%20health%20insurance%20premiums,%20by%20market%20segment,%202010-2024))
 
 ## Where the Money Goes
 

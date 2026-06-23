@@ -2,7 +2,7 @@
 
 **Summary**: The U.S. spends more on healthcare than any other nation — nearly one in every five dollars in the economy — and costs continue to grow despite persistent efforts at containment.
 
-**Sources**: [Eight Trends Shaping 2026 Healthcare Costs](https://www.kff.org/health-costs/eight-trends-shaping-2026-health-care-costs/), [What to expect in US healthcare in 2026 and beyond](https://www.mckinsey.com/industries/healthcare/our-insights/what-to-expect-in-us-healthcare), Healthcare System Priorities in 2026, [The U.S. Health Care System in 2026: Inside the Great Healthcare Plan](https://www.biobrain.io/blog/the-u-s-health-care-system-in-2026-inside-the-great-healthcare-plan)
+**Sources**: [Eight Trends Shaping 2026 Healthcare Costs](https://www.healthsystemtracker.org/chart-collection/eight-trends-shaping-2026-healthcare-costs/#Average%20monthly%20health%20insurance%20premiums,%20by%20market%20segment,%202010-2024), [What to expect in US healthcare in 2026 and beyond](https://www.mckinsey.com/industries/healthcare/our-insights/what-to-expect-in-us-healthcare), Healthcare System Priorities in 2026, [The U.S. Health Care System in 2026: Inside the Great Healthcare Plan](https://www.biobrain.io/blog/the-u-s-health-care-system-in-2026-inside-the-great-healthcare-plan)
 
 **Last updated**: 2026-05-12
 

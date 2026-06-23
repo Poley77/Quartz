@@ -15,6 +15,10 @@
 - The U.S. spends roughly **twice as much per capita on prescription drugs** as peer nations
 - Industry EBITDA as a percentage of national health expenditure fell from 11.2% (2019) to 8.9% (2024), and is projected to reach 8.7% by 2027 (Source: McKinsey)
 
+A small fraction of patients drives the majority of total spending — a pattern that shapes how VBC programs prioritize interventions:
+
+![[HealthCare Cost Concentration.png]]
+
 ## Who Worries About It
 
 Healthcare costs are the **top household financial worry** for Americans in 2026 — ranking above food, rent, and utilities (KFF Health Tracking Poll). Key consumer pain points:

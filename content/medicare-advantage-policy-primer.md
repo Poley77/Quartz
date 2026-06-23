@@ -41,6 +41,8 @@ CMS rates MA plans on a 1–5 star scale across roughly 40 measures in several d
 
 Plans with 4 or 5 stars receive **quality bonus payments** from CMS — additional funding on top of base capitation. These bonuses are substantial (5% or more of base payment) and create strong incentives for plans to invest in quality improvement and member engagement. Plans with low star ratings face payment reductions and potential sanctions.
 
+![[STAR Ratings Revenue Impact.png]]
+
 ## Key Policy Debates
 
 **Overpayment**: Evidence suggests MA plans are paid more than traditional Medicare would spend on the same beneficiaries, due to coding intensity and favorable selection. CMS has been gradually adjusting payment methodology to address this. See [[taking-stock-medicare-advantage-payment]].

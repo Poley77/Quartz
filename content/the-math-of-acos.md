@@ -20,6 +20,12 @@ The savings mechanism works through three main levers:
 
 **Improving care transitions**: Readmissions within 30 days of discharge are both costly and often preventable. Strong post-discharge follow-up is one of the highest-ROI interventions available.
 
+![[Highest Leverage Interactions.png]]
+
+The ACO savings model requires spending below a CMS-set benchmark to generate a shareable surplus. Here's how the math looks in a simplified scenario:
+
+![[MSSP Shared Savings.png]]
+
 ## Where the Math Gets Hard
 
 Despite the clean theory, ACO financial performance has been mixed. Several structural challenges complicate the numbers:

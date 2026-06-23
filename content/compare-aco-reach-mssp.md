@@ -44,6 +44,8 @@ ACO REACH was designed for more sophisticated organizations willing to take on m
 
 **Capitation option**: Unlike MSSP, ACO REACH allows organizations to receive capitated payments — a fixed per-member per-month amount — rather than a FFS overlay. This is the highest-risk, highest-control payment model, aligning the organization's financial incentives completely with keeping patients healthy.
 
+![[ACO REACH Capitation Options.png]]
+
 **New entrant friendly**: REACH was specifically designed to allow non-traditional organizations — technology companies, MSOs, payer-provider hybrids — to participate as ACO sponsors, not just physician groups and hospitals.
 
 **Health equity focus**: REACH includes specific adjustments for organizations serving high proportions of underserved populations, and requires participating organizations to develop health equity plans.

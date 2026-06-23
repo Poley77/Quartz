@@ -29,6 +29,14 @@ Common models:
 | **Shared savings (ACOs)** | Providers form Accountable Care Organizations that are collectively responsible for a defined population; if total costs come in below target, they share the savings with the payer |
 | **Capitation / full risk** | Providers receive a fixed payment per member per month to cover all care; they keep the difference if they spend less, absorb the loss if they spend more |
 
+These models sit on a spectrum of increasing financial risk and accountability:
+
+![[Screenshot 2026-06-22 at 15.33.16.png]]
+
+The four major active VBC programs compare across risk, reward potential, and operational complexity:
+
+![[VBC Model Comparison.png]]
+
 ## Historical Roots: HMOs and Managed Care
 
 The predecessors to modern VBC were **Health Maintenance Organizations (HMOs)**, which began in the mid-20th century and grew rapidly in the 1980s and 1990s. HMOs receive a fixed monthly premium per enrollee and must provide a comprehensive benefit package from a defined network of providers — a capitated model.

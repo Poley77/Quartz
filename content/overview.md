@@ -36,10 +36,10 @@ Healthcare now represents nearly **one in every five dollars** spent in the U.S.
 
 ```mermaid
 flowchart LR
-    classDef gov fill:#3b6ea5,stroke:#2a5080,color:#fff,rx:6
-    classDef private fill:#2e8b57,stroke:#1f6b3e,color:#fff,rx:6
-    classDef program fill:#6a5acd,stroke:#4b3fa8,color:#fff,rx:6
-    classDef provider fill:#c0623a,stroke:#9a4a28,color:#fff,rx:6
+    classDef gov fill:#3b6ea5,stroke:#2a5080,color:#fff
+    classDef private fill:#2e8b57,stroke:#1f6b3e,color:#fff
+    classDef program fill:#6a5acd,stroke:#4b3fa8,color:#fff
+    classDef provider fill:#c0623a,stroke:#9a4a28,color:#fff
 
     Fed["🏛 Federal Gov — 31%"]:::gov
     State["🏛 State & Local — 16%"]:::gov

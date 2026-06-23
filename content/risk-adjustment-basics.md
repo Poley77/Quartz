@@ -27,16 +27,7 @@ Risk adjustment systems share a common architecture:
 
 The key insight: **the goal is not to predict any individual patient's costs accurately — it's to fairly compensate plans for systematic differences in the health burden of their enrolled populations.**
 
-**Example** (base monthly payment: $1,000):
-
-| | 85-year-old male | 65-year-old female |
-|---|---|---|
-| **Base demographic score** | 0.686 | 0.323 |
-| Condition scores | Diabetes: +0.302 | Rheumatoid arthritis: +0.421 |
-| | Colorectal cancer: +0.307 | Dementia: +0.346 |
-| | | Chronic kidney disease: +0.069 |
-| **Total risk score** | **1.295** | **1.159** |
-| **Monthly payment** | **$1,295** | **$1,159** |
+![[Screenshot 2026-06-23 at 14.33.20.png]]
 
 The base score reflects age, sex, and disability status — older and disabled patients start higher. Each condition adds a weight on top. A frail 85-year-old male with diabetes and colorectal cancer generates a risk score nearly 30% above the base rate; a 65-year-old female with three serious chronic conditions generates one 16% above it.
 

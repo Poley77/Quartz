@@ -1,7 +1,6 @@
-# Wiki Index
-
-Table of contents for the U.S. Healthcare System wiki. All pages are in `/Wiki/`. Pages marked **[stub needed]** are linked from other pages but do not yet exist.
-
+---
+title: " "
+showReadingTime: false
 ---
 
 ## Health System Overview

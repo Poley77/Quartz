@@ -10,6 +10,8 @@
 
 ## The Core Problem with Fee-for-Service
 
+![[Why Change from FFS Models.png]]
+
 The traditional U.S. payment system pays providers for each service rendered — a visit, a test, a procedure. This **fee-for-service (FFS)** model creates a structural incentive to deliver more care, not better care. More admissions, more tests, and more procedures mean more revenue regardless of patient outcomes.
 
 Studies have documented the consequences. RAND Corporation research found that **15–30% of certain procedures are inappropriate or unnecessary** by clinical evidence standards. Geographic variation in procedure rates is dramatic and cannot be explained by patient population differences — it reflects how FFS incentives interact with local physician practice patterns. (Source: [A layman's guide to the U.S. health care system](https://pmc.ncbi.nlm.nih.gov/articles/PMC4193322/))

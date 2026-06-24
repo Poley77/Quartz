@@ -31,6 +31,34 @@ The key insight: **the goal is not to predict any individual patient's costs acc
 
 The base score reflects age, sex, and disability status — older and disabled patients start higher. Each condition adds a weight on top. A frail 85-year-old male with diabetes and colorectal cancer generates a risk score nearly 30% above the base rate; a 65-year-old female with three serious chronic conditions generates one 16% above it.
 
+## Risk Adjustment Factor (RAF) and Scoring
+
+![[RAF Score Definition.png]]
+
+The Risk Adjustment Factor (RAF) is the numeric output of the risk adjustment model — the single score that translates a beneficiary's health status into a payment modifier. In Medicare Advantage, every enrollee receives a RAF score, and CMS uses it to determine how much the plan is paid for that member's care. A RAF of 1.0 represents the average Medicare beneficiary; a score above 1.0 means the plan will be paid more for that member, a score below 1.0 means less.
+
+### How RAF Scores Are Built
+
+RAF scores are calculated by summing two types of inputs:
+
+**Demographic base score.** Every beneficiary starts with a weight derived from age, sex, and eligibility status — whether they are a community-dwelling enrollee, a dual-eligible (Medicare and Medicaid), or institutionalized. Older age and disability increase the base score before a single diagnosis is considered. A 78-year-old starts at a meaningfully higher base than a 66-year-old.
+
+**HCC condition weights.** On top of the demographic base, each Hierarchical Condition Category (HCC) a beneficiary qualifies for adds an incremental weight. These weights — recalibrated annually by CMS in the risk adjustment model — reflect the expected additional cost associated with each condition relative to an average beneficiary. Conditions with higher expected costs carry higher HCC weights. The weights are additive: a patient with diabetes with complications, congestive heart failure, and chronic kidney disease accumulates weights for each qualifying HCC.
+
+The final RAF score is the sum of all applicable demographic and condition weights. A beneficiary with no significant chronic conditions might carry a RAF of 0.7. A beneficiary with several serious conditions could carry a RAF of 2.5 or more.
+
+### RAF and Payment
+
+CMS multiplies each enrollee's RAF score against a county-level base payment rate to produce the plan's capitated monthly payment for that member. A plan whose enrolled population averages a RAF of 1.2 receives 20% more per member per month than a plan averaging 1.0 — reflecting the expectation that the higher-scoring population will be more expensive to care for.
+
+At scale, the financial stakes are significant. A 0.1 increase in average RAF across tens of thousands of members can represent tens of millions of dollars in annual revenue. This makes accurate, complete RAF scoring a core operational priority for MA plans and the provider groups that serve them.
+
+### Coding and RAF Completeness
+
+Because RAF scores are derived from submitted diagnosis codes, plans and provider organizations invest heavily in **coding completeness** — ensuring that every clinically valid HCC condition for every member is captured and submitted each year. A qualifying condition that goes uncoded means the HCC weight is not applied, and the plan is effectively underpaid relative to that member's actual risk.
+
+This creates the central tension in risk adjustment policy: accurate, complete coding is both clinically appropriate and financially important. But the same incentive that drives completeness also creates pressure toward overcoding — submitting diagnoses that are not well-supported by clinical documentation in order to capture additional HCC weights. The line between the two is where most of the fraud, waste, and abuse in MA risk adjustment occurs, and it is the primary focus of CMS's RADV audit program (see [[hcc-coding-radv-audits]]).
+
 ## Risk Adjustment Across Insurance Markets
 
 ### Medicare Advantage

@@ -16,6 +16,8 @@ The payer (insurer, Medicare, Medicaid, or the patient) reimburses based on stan
 
 ## The Core Incentive Problem
 
+![[Why Change from FFS Models.png]]
+
 FFS creates a structural misalignment between what pays and what heals. The model rewards volume — more visits, more tests, more procedures — not outcomes. A provider whose patient stays healthy and avoids complications earns nothing extra for that. A provider who orders more imaging, more specialist referrals, and more procedures earns more.
 
 Studies have documented the consequences. RAND Corporation research found that **15–30% of certain procedures are inappropriate or unnecessary** by clinical evidence standards. Geographic variation in procedure rates is dramatic and cannot be explained by patient population differences — it reflects how FFS incentives interact with local physician practice patterns. (Source: [A layman's guide to the U.S. health care system](https://pmc.ncbi.nlm.nih.gov/articles/PMC4193322/))
@@ -45,6 +47,8 @@ Despite decades of effort, FFS still dominates actual payment volume in U.S. hea
 Transitioning away from FFS requires building VBC infrastructure while maintaining the FFS revenue streams that keep organizations solvent today. Most health systems operate on margins of 1–2% — there is very little room to absorb the dual running costs. The transition isn't blocked by disagreement about whether VBC is better. It's blocked by the cost of running both models simultaneously. (Source: Healthcare System Priorities in 2026)
 
 ## FFS vs. Value-Based Care: The Key Differences
+
+![[FFS vs VBC Clinical Environment.png]]
 
 | | Fee-for-Service | Value-Based Care |
 |---|---|---|

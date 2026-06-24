@@ -29,6 +29,8 @@ Common models:
 | **Shared savings (ACOs)** | Providers form Accountable Care Organizations that are collectively responsible for a defined population; if total costs come in below target, they share the savings with the payer |
 | **Capitation / full risk** | Providers receive a fixed payment per member per month to cover all care; they keep the difference if they spend less, absorb the loss if they spend more |
 
+![[Compensation Categories Historical.png]]
+
 These models sit on a spectrum of increasing financial risk and accountability:
 
 ![[Screenshot 2026-06-22 at 15.33.16.png]]
@@ -46,6 +48,8 @@ Studies found HMOs saved **20–30% compared to FFS** primarily by reducing unne
 By the 1990s, HMO enrollment had reached roughly 37 million Americans. The "managed care backlash" of that era — litigation, state mandates, "patients' bill of rights" legislation — slowed the shift and entrenched FFS as the default. The lesson absorbed by policymakers: moving too aggressively toward utilization control without quality safeguards produces political backlash.
 
 ## The ACA Era and ACOs
+
+![[VBC Policy Timeline 2003-2023.png]]
 
 The [[affordable-care-act|ACA (2010)]] created the Medicare Shared Savings Program, establishing **Accountable Care Organizations (ACOs)** in Medicare. ACOs are groups of physicians, hospitals, and other providers that voluntarily agree to be held accountable for the cost and quality of care for an assigned Medicare population. If the ACO's total spending comes in below a benchmark, it shares the savings with Medicare; in some tracks, it also bears downside risk for spending above the benchmark.
 

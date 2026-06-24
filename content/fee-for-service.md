@@ -46,8 +46,6 @@ Transitioning away from FFS requires building VBC infrastructure while maintaini
 
 ## FFS vs. Value-Based Care: The Key Differences
 
-![[Why Change from FFS Models.png]]
-
 ![[FFS vs VBC Clinical Environment.png]]
 
 | | Fee-for-Service | Value-Based Care |

@@ -30,6 +30,16 @@ CMS sets a **county-level benchmark** — an estimate of what traditional Medica
 
 Payments are adjusted for each enrollee's health status using [[risk-adjustment-coding|HCC risk scores]] — sicker enrollees generate higher payments. See [[how-risk-adjustment-affects-payment-medicare-advantage-plans]] for detail on how this works and why it's contested.
 
+### Contracting Entity Relationships
+
+The MA contracting chain runs from CMS down through multiple layers of entities — each with a defined role and level of accountability:
+
+![[CMS MA Entity Relationships Diagram.png]]
+
+![[CMS MA Entity Relationships Table.png]]
+
+CMS contracts directly with the plan sponsor (e.g., UnitedHealthcare). The plan sponsor in turn contracts with first-tier entities — provider groups and delegated vendors like Optum — who may further subcontract to downstream entities like Signify Health. Each layer is subject to CMS oversight requirements, and related entities (those under common ownership or control, like United and Optum) carry additional compliance obligations.
+
 ## Quality Measurement: Star Ratings
 
 CMS rates MA plans on a 1–5 star scale across roughly 40 measures in several domains:
